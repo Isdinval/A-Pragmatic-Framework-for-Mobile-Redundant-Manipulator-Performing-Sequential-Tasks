@@ -5,7 +5,7 @@ In this paper, a framework combining base place- ment, path planning and redunda
 # Use-case description and objectives
 The figure bellow illustrates the application considered in this work, where a 10 DOFs mobile manipulator composed of 7 DOFs serial robot arm mounted on a 3 DOFs holonomic mobile platform has to perform a sequence of discrete tasks, such as screwing. The spatial distribution of the tasks is large enough that several mobile base motions are required. From the starting position, the mobile manipulator moves to the first base position and performs a series of screwing tasks (group 1) while avoiding self-collision and the collision between the mobile manipulator and its environment, and so on for the other tasks group. 
 
- [My Image](../FIG%20GITHUB%20README/presentation.png)
+ [My Image](FIG_GITHUB_README/presentation.png "Schematic diagram of a screwing application with a view of the output of the proposed method. Multiple positions of the Mobile Base (MB) are represented. Each MB position is linked to a task group")
 
 The application objectives are :
 
