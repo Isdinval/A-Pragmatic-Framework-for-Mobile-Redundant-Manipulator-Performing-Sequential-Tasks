@@ -36,10 +36,9 @@ Fig 3: Proposed framework
 In the proposed article, a result section proposed a comparison between 3 types of scenarios : 1. non-redundant, 2. pure FCI-based and 3. the proposed method. The result are about the path planning of the mobile manipulator once the mobile base positions, the tasks groups, the joint configurations have been chosen. Four criteria are considered: 1. resolution of the redundant space, 2. the path feasibility (%), 3. the path distance (°) and 4. the travelling time (s). It has to be noted that the travelling time (s) criteria has been used with the real mobile manipulator instead of the simulated one. 
 
 The path planning of the manipulator is composed of the following segments : 
-- Transport position -> Group 1 --> Transport position --> Group 2 and so on.
-<<<<<<< HEAD
-
+- Transport position -> Group 1 --> Transport position --> Group 2 and so on.  
 Results are displayed in the fig. 4. 
+
  ![](FIG_GITHUB_README/results_article.png)  
 Fig 4: Point-to-Point path planning
 
@@ -50,10 +49,9 @@ The improvement range of the proposed full-method vs the non-redundant scenario 
 Similarly, the improvement range of the proposed full-method vs the pure FCI-based scenario is: 1. between 212\% (medium resolution) and 292\% (high resolution) for the path joint distance, 2. between 143\% (small resolution) and 207\% (medium resolution) for the traveling time. 
 
 The fig. 5 is a summary of each scenario for each resolution. Each color correspond to a new group of tasks (and so to a new mobile base position). The color/group references are : G1. Lavender, G2. Brown, G3. Olive, G4. Teal, G5. Navy, G6. Black, G7. Orange and G8. Beige. 
+
  ![](FIG_GITHUB_README/results.png)  
 Fig 5: Point-to-Point path planning
-
-
 
 # III. Implementation
 This framework is using various software : 1. MATLAB for calculus and 2. V-REP (now called COPPELIA) for input data, visualization and pathplanning algorithms thanks to the Open Motion Planning Library (OMPL). 
@@ -84,9 +82,9 @@ Based on the two previous matrix, it is possible to create the directed graph of
 
 A minimisation of the number of nodes and a maximisation of the number of feasible tasks is then performed. Among all the paths, one has been selected (in green). If it exists multiple minimum nodes path solution, a spatial criteria is applied to differenciate the solutions. 
 
-Finally, the retrieved path solution is :
-Groupe 1: [YB(5), XB(5)] for task 1 to task 18
-Groupe 2: [YB(1), XB(5)] for task 19 to task 34
+Finally, the retrieved path solution is :  
+Groupe 1: [YB(5), XB(5)] for task 1 to task 18  
+Groupe 2: [YB(1), XB(5)] for task 19 to task 34  
 
 ![](FIG_GITHUB_README/directed_graph.png)  
 Fig 6: Directed graph 
@@ -109,37 +107,34 @@ The different possibilites of this table can be regrouped in the fig. 8. It exis
 Fig 8: All possible combinations of task/swivel
 
 The final result of the search by block column is presented in fig. 9 where 3 column have been found, leading to the solution:
-***(T1, Swiv2), (T2, Swiv2), (T3, Swiv2), (T4, Swiv1), (T5, Swiv3), (T6, Swiv3)***.
+***(T1, Swiv2), (T2, Swiv2), (T3, Swiv2), (T4, Swiv1), (T5, Swiv3)***.
 
 ![](FIG_GITHUB_README/swivel_choice_table_FINAL.png)  
-Fig 8: All possible combinations of task/swivel
-
-
+Fig 9: All possible combinations of task/swivel
 
 
 # V. Validation of the FCI Method
-In this section, an expérimental validaiton of the Force Capacity Index (FCI) method is performed for 3 screws of a contator. The desired vector force/torque f = [50N, 0N, 0N, 9Nm, 0Nm, 0Nm] is referenced in the TCP frame of the manipulator. The tightening torque is 9Nm and the strenght to apply to the screw of a contactor is 50N. The initial joint configuration is represented in fig. 9. 
+In this section, an expérimental validaiton of the Force Capacity Index (FCI) method is performed for 3 screws of a contator. The desired vector force/torque f = [50N, 0N, 0N, 9Nm, 0Nm, 0Nm] is referenced in the TCP frame of the manipulator. The tightening torque is 9Nm and the strenght to apply to the screw of a contactor is 50N. The initial joint configuration is represented in fig. 10. 
 
-<<<<<<< HEAD
 ![](FIG_GITHUB_README/FCI_couple_3vis.jpg)  
-Fig 9: Initial manipulator position for screwing. 
+Fig 10: Initial manipulator position for screwing. 
 
-The weight of the tool is 3.9kg. It is composed of the electrical screwdriver and its 3D-printed support, an camera baxler and a LEDs system. It has to be noted that this tool's weight is offseted compared to the manipulator's flange, which reduced considerably the permitted payload according to the manipulator's manufacturer data (see fig. 10)
+The weight of the tool is 3.9kg. It is composed of the electrical screwdriver and its 3D-printed support, an camera baxler and a LEDs system. It has to be noted that this tool's weight is offseted compared to the manipulator's flange, which reduced considerably the permitted payload according to the manipulator's manufacturer data (see fig. 11)
 
 ![](FIG_GITHUB_README/payload_diagram.png)  
-Fig 10: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
+Fig 11: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
 
-The experimental results are obtained from the data present in the manipulator (collected from a dataRecorder). In total, three types of data are recovered: 1. the vector force/torque ***f*** felt by the electrical screwdriver at the TCP in the robot base frame, 2. the torque due to gravity ***T<sub>g</sub>*** and 3. the torque due to an external force ***T<sub>f</sub>***. From these data, the total torque ***T<sub>tot</sub>*** (see fig. 11) for each joint and the FCI (see fig. 12) can be obtained. 
+The experimental results are obtained from the data present in the manipulator (collected from a dataRecorder). In total, three types of data are recovered: 1. the vector force/torque ***f*** felt by the electrical screwdriver at the TCP in the robot base frame, 2. the torque due to gravity ***T<sub>g</sub>*** and 3. the torque due to an external force ***T<sub>f</sub>***. From these data, the total torque ***T<sub>tot</sub>*** (see fig. 12) for each joint and the FCI (see fig. 13) can be obtained. 
 As a reminder, for a joint configuration ***q***, the FCI method search an index of saturation lambda_sat which satisfy the following equation : ***T<sub>tot</sub>(q) = T<sub>g</sub>(q) + lambda_sat . T<sub>f</sub>(q)***. 
 
 ![](FIG_GITHUB_README/couple_total_FCI_vissage.png)  
-Fig 11: Experimental results of the manipulator total torque for each joint. 
+Fig 12: Experimental results of the manipulator total torque for each joint. 
 
 ![](FIG_GITHUB_README/FCI_vissage.png)  
-Fig 12: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
+Fig 13: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
 
-Based on these two graphs, the experimental FCI is 4.23 for the first screw, 3.91 for the second and finally 5.21 for the third. Theoretically, we find a FCI of 4.45 for the three screwings. There is therefore a difference of about $\pm 15\%$. Moreover, we can see in fig. 11 that none of the joints is in saturation compared to the limit torques of the manipulator. The screwing is therefore feasible, which can also be observed from the screwing curves recovered from the screwing machine (see fig. 13).
+Based on these two graphs, the experimental FCI is 4.23 for the first screw, 3.91 for the second and finally 5.21 for the third. Theoretically, we find a FCI of 4.45 for the three screwings. There is therefore a difference of about $\pm 15\%$. Moreover, we can see in fig. 12 that none of the joints is in saturation compared to the limit torques of the manipulator. The screwing is therefore feasible, which can also be observed from the screwing curves recovered from the screwing machine (see fig. 14).
 
 ![](FIG_GITHUB_README/courbe_vissage_visseuse.png)  
-Fig 13: Screwing curve of the electrical screwdriver for the first screw. 
+Fig 14: Screwing curve of the electrical screwdriver for the first screw. 
 
