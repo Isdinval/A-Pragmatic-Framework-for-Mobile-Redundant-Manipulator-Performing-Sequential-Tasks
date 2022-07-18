@@ -22,7 +22,6 @@ The FCI method, which determines the manipulator’s FC inside the redundancy sp
  ![](FIG_GITHUB_README/manipulator_form_angle_swivel.png)
 Fig 2: Manipulator’s forms for a given pose (left) and the Swivel Angle for 3 manipulator configurations (right)
 
-<<<<<<< HEAD
 ## I.3. GOAL 3: generate short paths thanks to 1. status, 2. swivel angle and 3. task's order assignement (TSP)
 To generate shorter paths and improve workstation safety by removing large movements, the choice of joints configuration and task order is essential. The choice of the manipulator configurations is done thanks to two sub-criteria (see fig. \ref{Status_definition}): the manipulator's form and the swivel angle ***Swiv***. Hence, two constraints are added to maintain whenever possible: a) the same manipulator's form and b) the same swivel angle. The manipulator's form corresponds to a joint configuration for a given pose which is chosen thanks to the choice of a binary combination of the triplet (shoulder, elbow, wrist). They are eight possibles combinations for the considered redundant manipulator (Kuka IIWA). The tasks order choice may be solved by using a combinatorial optimization technique: the traveling salesman problem. Additionally, in case it is not possible to fix the same form, a strategy can be implemented to limit and reduce the traveling path between two tasks: a wrist motion is shorter than a wrist+elbow+shoulder motion. Thus, a qualification of the path planning is possible.
 
@@ -82,9 +81,9 @@ Based on the two previous matrix, it is possible to create the directed graph of
 
 A minimisation of the number of nodes and a maximisation of the number of feasible tasks is then performed. Among all the paths, one has been selected (in green). If it exists multiple minimum nodes path solution, a spatial criteria is applied to differenciate the solutions. 
 
-Finally, the retrieved path solution is :
-Groupe 1: [YB(5), XB(5)] for task 1 to task 18
-Groupe 2: [YB(1), XB(5)] for task 19 to task 34
+Finally, the retrieved path solution is :  
+Groupe 1: [YB(5), XB(5)] for task 1 to task 18  
+Groupe 2: [YB(1), XB(5)] for task 19 to task 34  
 
 ![](FIG_GITHUB_README/directed_graph.png)  
 Fig 6: Directed graph 
@@ -107,7 +106,7 @@ The different possibilites of this table can be regrouped in the fig. 8. It exis
 Fig 8: All possible combinations of task/swivel
 
 The final result of the search by block column is presented in fig. 9 where 3 column have been found, leading to the solution:
-***(T1, Swiv2), (T2, Swiv2), (T3, Swiv2), (T4, Swiv1), (T5, Swiv3), (T6, Swiv3)***.
+***(T1, Swiv2), (T2, Swiv2), (T3, Swiv2), (T4, Swiv1), (T5, Swiv3)***.
 
 ![](FIG_GITHUB_README/swivel_choice_table_FINAL.png)  
 Fig 8: All possible combinations of task/swivel
@@ -142,8 +141,6 @@ The fig. 5 is a summary of each scenario for each resolution. Each color corresp
  ![](FIG_GITHUB_README/results.png)  
 Fig 5: Point-to-Point path planning
 
-
-
 # III. Implementation
 This framework is using various software : 1. MATLAB for calculus and 2. V-REP (now called COPPELIA) for input data, visualization and pathplanning algorithms thanks to the Open Motion Planning Library (OMPL). 
 
@@ -173,9 +170,9 @@ Based on the two previous matrix, it is possible to create the directed graph of
 
 A minimisation of the number of nodes and a maximisation of the number of feasible tasks is then performed. Among all the paths, one has been selected (in green). If it exists multiple minimum nodes path solution, a spatial criteria is applied to differenciate the solutions. 
 
-Finally, the retrieved path solution is :
-Groupe 1 - Node 41 - [YB(5), XB(5)] for task 1 to task 18
-Groupe 2 - Node 37 - [YB(1), XB(5)] for task 19 to task 34
+Finally, the retrieved path solution is :  
+Groupe 1 - Node 41 - [YB(5), XB(5)] for task 1 to task 18  
+Groupe 2 - Node 37 - [YB(1), XB(5)] for task 19 to task 34  
 
 ![](FIG_GITHUB_README/directed_graph.png)  
 Fig 6: Directed graph 
