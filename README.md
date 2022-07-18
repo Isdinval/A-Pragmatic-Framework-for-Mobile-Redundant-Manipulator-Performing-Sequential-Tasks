@@ -82,8 +82,8 @@ Based on the two previous matrix, it is possible to create the directed graph of
 A minimisation of the number of nodes and a maximisation of the number of feasible tasks is then performed. Among all the paths, one has been selected (in green). If it exists multiple minimum nodes path solution, a spatial criteria is applied to differenciate the solutions. 
 
 Finally, the retrieved path solution is :
-Groupe 1: [YB(5), XB(5)] for task 1 to task 18
-Groupe 2: [YB(1), XB(5)] for task 19 to task 34
+Groupe 1 - Node 41 - [YB(5), XB(5)] for task 1 to task 18
+Groupe 2 - Node 37 - [YB(1), XB(5)] for task 19 to task 34
 
 ![](FIG_GITHUB_README/directed_graph.png)  
 Fig 6: Directed graph 
