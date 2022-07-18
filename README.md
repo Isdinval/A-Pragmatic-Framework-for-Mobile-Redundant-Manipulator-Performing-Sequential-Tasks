@@ -8,7 +8,7 @@ The fig. 1 illustrates the application considered in this work, where a 10 DOFs 
 The application objectives are :
 
  ![](FIG_GITHUB_README/presentation.png)
-Fig 1: Schematic diagram of a screwing application with a view of the output of the proposed method. Multiple positions of the Mobile Base (MB) are represented. Each MB position is linked to a task group.
+Fig. 1: Schematic diagram of a screwing application with a view of the output of the proposed method. Multiple positions of the Mobile Base (MB) are represented. Each MB position is linked to a task group.
 
 
 ## I.1. GOAL 1: minimizing the number of movements of the mobile base.  
@@ -19,7 +19,7 @@ With its 10 DOFs, the mobile manipulator is a kinematically redundant system. Wi
 The FCI method, which determines the manipulator’s FC inside the redundancy space according to the joints configuration, is used in this study to fix the choice of the redundancy parameters. 
 
  ![](FIG_GITHUB_README/manipulator_form_angle_swivel.png)
-Fig 2: Manipulator’s forms for a given pose (left) and the Swivel Angle for 3 manipulator configurations (right)
+Fig. 2: Manipulator’s forms for a given pose (left) and the Swivel Angle for 3 manipulator configurations (right)
 
 ## I.3. GOAL 3: generate short paths thanks to 1. status, 2. swivel angle and 3. task's order assignement (TSP)
 To generate shorter paths and improve workstation safety by removing large movements, the choice of joints configuration and task order is essential. The choice of the manipulator configurations is done thanks to two sub-criteria (see fig. \ref{Status_definition}): the manipulator's form and the swivel angle ***Swiv***. Hence, two constraints are added to maintain whenever possible: a) the same manipulator's form and b) the same swivel angle. The manipulator's form corresponds to a joint configuration for a given pose which is chosen thanks to the choice of a binary combination of the triplet (shoulder, elbow, wrist). They are eight possibles combinations for the considered redundant manipulator (Kuka IIWA). The tasks order choice may be solved by using a combinatorial optimization technique: the traveling salesman problem. Additionally, in case it is not possible to fix the same form, a strategy can be implemented to limit and reduce the traveling path between two tasks: a wrist motion is shorter than a wrist+elbow+shoulder motion. Thus, a qualification of the path planning is possible.
@@ -30,7 +30,7 @@ In this paper, a base positioning method based on the end-effector pose is  pres
 This three-step framework meet efficiently the previous goals. The steps are to: a) minimize the number of the mobile base positions, b) provide redundancy resolution according to the FC at the end-effector level guaranteeing the task success and c) generate the path considering obstacle avoidance. 
 
 ![](FIG_GITHUB_README/framework.png)
-Fig 3: Proposed framework
+Fig. 3: Proposed framework
 
 # Visualization of the results 
 In the proposed article, a result section proposed a comparison between 3 types of scenarios : 1. non-redundant, 2. pure FCI-based and 3. the proposed method. The result are about the path planning of the mobile manipulator once the mobile base positions, the tasks groups, the joint configurations have been chosen. Four criteria are considered: 1. resolution of the redundant space, 2. the path feasibility (%), 3. the path distance (°) and 4. the travelling time (s). It has to be noted that the travelling time (s) criteria has been used with the real mobile manipulator instead of the simulated one. 
@@ -40,7 +40,7 @@ The path planning of the manipulator is composed of the following segments :
 Results are displayed in the fig. 4. 
 
  ![](FIG_GITHUB_README/results_article.png)  
-Fig 4: Point-to-Point path planning
+Fig. 4: Point-to-Point path planning
 
 For each scenario and each resolution, the path planning is feasible (100\%). 
 For the pure FCI-based scenario, both the path joint distance and the traveling time are higher. In this case, the manipulator form changes frequently, which is a time-consuming motion for the manipulator. 
@@ -51,7 +51,7 @@ Similarly, the improvement range of the proposed full-method vs the pure FCI-bas
 The fig. 5 is a summary of each scenario for each resolution. Each color correspond to a new group of tasks (and so to a new mobile base position). The color/group references are : G1. Lavender, G2. Brown, G3. Olive, G4. Teal, G5. Navy, G6. Black, G7. Orange and G8. Beige. 
 
  ![](FIG_GITHUB_README/results.png)  
-Fig 5: Point-to-Point path planning
+Fig. 5: Point-to-Point path planning
 
 # III. Implementation
 This framework is using various software : 1. MATLAB for calculus and 2. V-REP (now called COPPELIA) for input data, visualization and pathplanning algorithms thanks to the Open Motion Planning Library (OMPL). 
@@ -64,16 +64,16 @@ Another step is the utilisation of this path txt file. The real manipulator (IIW
 # IV. Few exemples of the framework and explication of a few techniques used in the scientific paper.
 
 ## EXEMPLE 1 - Choice of the mobile base positions and the tasks groups.
-In this small exemple, the mobile manipulator has to perform 34 actions which could be screwing, drilling ... The redundant space composed of the plannar position of the mobile base and the angle of swivel of the manipulator has been discretized in N_Yb = N_Xb = Nswiv = 9 values. The fig.4 represent the use case for this exemple. 
+In this small exemple, the mobile manipulator has to perform 34 actions which could be screwing, drilling ... The redundant space composed of the plannar position of the mobile base and the angle of swivel of the manipulator has been discretized in N_Yb = N_Xb = Nswiv = 9 values. The fig. 4 represent the use case for this exemple. 
 
 ![](FIG_GITHUB_README/use_case_34_tasks.png)  
-Fig 4: Proposed use-case for this exemple
+Fig. 4: Proposed use-case for this exemple
 
 ### Obtention of the reduced matrix of the feasible tasks
 Based on step 0 and step 1 of the article, one can compute the following matrix (see fig. 5 - top) and its equivalent in node form (see fig. 5 - bottom). It represents for each mobile base position (Yb, Xb), the tasks which are reachables (I.K) and feasible (FCI). For exemple, the mobile base position (Yb=6, Xb=4) allows the reachability and the feasility (from a force point of view) of the tasks 1 to 8. 
 
 ![](FIG_GITHUB_README/reduced_matrix_feasible_tasks_exemple.png)  
-Fig 5: Reduced matrix of the feasibles tasks (top) and its node equivalence (bottom). 
+Fig. 5: Reduced matrix of the feasibles tasks (top) and its node equivalence (bottom). 
 
 In the previous figure, the root nodes (green - nodes 33, 34, 41, 42, 44, 50, 52 and 53) and the end nodes (orange - nodes 37 and 46) are represented. They correspond respectively to the nodes containing at least the task n°1 and the last task. 
 
@@ -87,7 +87,7 @@ Groupe 1: [YB(5), XB(5)] for task 1 to task 18
 Groupe 2: [YB(1), XB(5)] for task 19 to task 34  
 
 ![](FIG_GITHUB_README/directed_graph.png)  
-Fig 6: Directed graph 
+Fig. 6: Directed graph 
 
 ## EXEMPLE 2 - Choice of the swivel angle value (search by block column)
 In the article, a method has been introduced but hasn't been described thoroughly : the search by block column. This method is going to be applied to a small exemple. It's a method that seek a (task, swivel) form of solution which minimize the the change of swivel angle value from one task to another. 
@@ -95,7 +95,7 @@ In the article, a method has been introduced but hasn't been described thoroughl
 Let's considers that the use-case contains only 5 tasks. Let's also considers that Nswiv = 5, meaning the swivel angle can take 5 values. Let's also consider that our input data is this reduced binary matrix for feasible forms : ***red_bin<sub>Ff</sub>*** (see fig. 7) where 1 correspond to feasible and 0 to non feasible. 
 
 ![](FIG_GITHUB_README/swivel_choice_table_ORI.png)  
-Fig 7: reduced binary matrix for feasible forms ***red_bin<sub>Ff</sub>***
+Fig. 7: reduced binary matrix for feasible forms ***red_bin<sub>Ff</sub>***
 
 So in this matrix : 
 - the first task can be realized with any value of the swivel angle.  
@@ -105,37 +105,37 @@ So in this matrix :
 The different possibilites of this table can be regrouped in the fig. 8. It exists in total 40 combinations. By using the search by block column method, a "column" solution can be retrieved. A column start with the intiial index and finish once a zero value has been founded. Then, the research of a new column at the index of the previous zero is carried out and so on. The "column" solution which is retrieved correspond to the column which maximize the number of tasks. 
 
 ![](FIG_GITHUB_README/Swiv_Possible_comb.png)  
-Fig 8: All possible combinations of task/swivel
+Fig. 8: All possible combinations of task/swivel
 
 The final result of the search by block column is presented in fig. 9 where 3 column have been found, leading to the solution:
 ***(T1, Swiv2), (T2, Swiv2), (T3, Swiv2), (T4, Swiv1), (T5, Swiv3)***.
 
 ![](FIG_GITHUB_README/swivel_choice_table_FINAL.png)  
-Fig 9: All possible combinations of task/swivel
+Fig. 9: All possible combinations of task/swivel
 
 
 # V. Validation of the FCI Method
 In this section, an expérimental validaiton of the Force Capacity Index (FCI) method is performed for 3 screws of a contator. The desired vector force/torque f = [50N, 0N, 0N, 9Nm, 0Nm, 0Nm] is referenced in the TCP frame of the manipulator. The tightening torque is 9Nm and the strenght to apply to the screw of a contactor is 50N. The initial joint configuration is represented in fig. 10. 
 
 ![](FIG_GITHUB_README/FCI_couple_3vis.jpg)  
-Fig 10: Initial manipulator position for screwing. 
+Fig. 10: Initial manipulator position for screwing. 
 
 The weight of the tool is 3.9kg. It is composed of the electrical screwdriver and its 3D-printed support, an camera baxler and a LEDs system. It has to be noted that this tool's weight is offseted compared to the manipulator's flange, which reduced considerably the permitted payload according to the manipulator's manufacturer data (see fig. 11)
 
 ![](FIG_GITHUB_README/payload_diagram.png)  
-Fig 11: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
+Fig. 11: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
 
 The experimental results are obtained from the data present in the manipulator (collected from a dataRecorder). In total, three types of data are recovered: 1. the vector force/torque ***f*** felt by the electrical screwdriver at the TCP in the robot base frame, 2. the torque due to gravity ***T<sub>g</sub>*** and 3. the torque due to an external force ***T<sub>f</sub>***. From these data, the total torque ***T<sub>tot</sub>*** (see fig. 12) for each joint and the FCI (see fig. 13) can be obtained. 
 As a reminder, for a joint configuration ***q***, the FCI method search an index of saturation lambda_sat which satisfy the following equation : ***T<sub>tot</sub>(q) = T<sub>g</sub>(q) + lambda_sat . T<sub>f</sub>(q)***. 
 
 ![](FIG_GITHUB_README/couple_total_FCI_vissage.png)  
-Fig 12: Experimental results of the manipulator total torque for each joint. 
+Fig. 12: Experimental results of the manipulator total torque for each joint. 
 
 ![](FIG_GITHUB_README/FCI_vissage.png)  
-Fig 13: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
+Fig. 13: Payload diagram - Permitted payload vs the offset of the TCP frame from the flange frame. 
 
 Based on these two graphs, the experimental FCI is 4.23 for the first screw, 3.91 for the second and finally 5.21 for the third. Theoretically, we find a FCI of 4.45 for the three screwings. There is therefore a difference of about $\pm 15\%$. Moreover, we can see in fig. 12 that none of the joints is in saturation compared to the limit torques of the manipulator. The screwing is therefore feasible, which can also be observed from the screwing curves recovered from the screwing machine (see fig. 14).
 
 ![](FIG_GITHUB_README/courbe_vissage_visseuse.png)  
-Fig 14: Screwing curve of the electrical screwdriver for the first screw. 
+Fig. 14: Screwing curve of the electrical screwdriver for the first screw. 
 
