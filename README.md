@@ -35,8 +35,8 @@ In the proposed article, a result section proposed a comparison between 3 types 
 
 The path planning of the manipulator is composed of the following segments : 
 - Transport position -> Group 1 --> Transport position --> Group 2 and so on.
-
 Results are displayed in the fig. 4. 
+
  ![](FIG_GITHUB_README/results_article.png)  
 Fig 4: Point-to-Point path planning
 
