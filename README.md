@@ -24,9 +24,12 @@ Fig 2: Manipulator’s forms for a given pose (left) and the Swivel Angle for 3 
 ## I.3. GOAL 3: generate short paths thanks to 1. status, 2. swivel angle and 3. task's order assignement (TSP)
 To generate shorter paths and improve workstation safety by removing large movements, the choice of joints configuration and task order is essential. The choice of the manipulator configurations is done thanks to two sub-criteria (see fig. \ref{Status_definition}): the manipulator's form and the swivel angle ***Swiv***. Hence, two constraints are added to maintain whenever possible: a) the same manipulator's form and b) the same swivel angle. The manipulator's form corresponds to a joint configuration for a given pose which is chosen thanks to the choice of a binary combination of the triplet (shoulder, elbow, wrist). They are eight possibles combinations for the considered redundant manipulator (Kuka IIWA). The tasks order choice may be solved by using a combinatorial optimization technique: the traveling salesman problem. Additionally, in case it is not possible to fix the same form, a strategy can be implemented to limit and reduce the traveling path between two tasks: a wrist motion is shorter than a wrist+elbow+shoulder motion. Thus, a qualification of the path planning is possible.
 
-This study proposed a three-step framework to meet efficiently the previous goals. The steps are to: a) minimize the number of the mobile base positions, b) provide redundancy resolution according to the FC at the end-effector level guaranteeing the task success and c) generate the path considering obstacle avoidance. 
+## I.4. Proposed framework
+In this paper, a base positioning method based on the end-effector pose is  presented. It is a multi-objectives framework combining the force capacity criteria and the minimization of the number of mobile base by exploiting the kinematic redundancy of the mobile manipulator and using the graph theory. An industrial experimentation has been done to validate screwing problems that required torque management.
 
- ![](FIG_GITHUB_README/framework.png)
+This three-step framework meet efficiently the previous goals. The steps are to: a) minimize the number of the mobile base positions, b) provide redundancy resolution according to the FC at the end-effector level guaranteeing the task success and c) generate the path considering obstacle avoidance. 
+
+![](FIG_GITHUB_README/framework.png)
 Fig 3: Proposed framework
 
 # Visualization of the results 
