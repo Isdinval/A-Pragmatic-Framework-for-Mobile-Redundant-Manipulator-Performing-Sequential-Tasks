@@ -64,7 +64,7 @@ Another step is the utilisation of this path txt file. The real manipulator (IIW
 # IV. Few exemples of the framework and explication of a few techniques used in the scientific paper.
 
 ## EXEMPLE 1 - Choice of the mobile base positions and the tasks groups.
-In this small exemple, the mobile manipulator has to perform 34 actions which could be screwing, drilling ... The redundant space composed of the plannar position of the mobile base and the angle of swivel of the manipulator has been discretized in N_YB = N_Xb = Nswiv = 9 values. The fig.4 represent the use case for this exemple. 
+In this small exemple, the mobile manipulator has to perform 34 actions which could be screwing, drilling ... The redundant space composed of the plannar position of the mobile base and the angle of swivel of the manipulator has been discretized in N_Yb = N_Xb = Nswiv = 9 values. The fig.4 represent the use case for this exemple. 
 
 ![](FIG_GITHUB_README/use_case_34_tasks.png)  
 Fig 4: Proposed use-case for this exemple
@@ -93,6 +93,7 @@ Fig 6: Directed graph
 In the article, a method has been introduced but hasn't been described thoroughly : the search by block column. This method is going to be applied to a small exemple. It's a method that seek a (task, swivel) form of solution which minimize the the change of swivel angle value from one task to another. 
 
 Let's considers that the use-case contains only 5 tasks. Let's also considers that Nswiv = 5, meaning the swivel angle can take 5 values. Let's also consider that our input data is this reduced binary matrix for feasible forms : ***red_bin<sub>Ff</sub>*** (see fig. 7) where 1 correspond to feasible and 0 to non feasible. 
+
 ![](FIG_GITHUB_README/swivel_choice_table_ORI.png)  
 Fig 7: reduced binary matrix for feasible forms ***red_bin<sub>Ff</sub>***
 
