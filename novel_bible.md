@@ -24,5 +24,6 @@
 
 ## 5. ÉTAT DU MANUSCRIT
 *   **Statut :** Terminé.
-*   **Chapitres rédigés :** 30 / 30.
+*   **Chapitres rédigés :** 15 / 15 (fusionnés de 30 initiaux).
+*   **Format :** Chapitres denses (~3000 mots / 16 pages).
 *   **Dernier événement :** Départ pour explorer le monde extérieur. Fin du Tome 1.

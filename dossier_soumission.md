@@ -4,7 +4,8 @@
 *   **Titre :** Le Prix du Sang Noir
 *   **Genre :** Romantasy / Thriller Dystopique
 *   **Cible :** Young Adult / Adult (16-30 ans)
-*   **Nombre de mots :** ~49 000 mots (Tome 1 achevé)
+*   **Nombre de mots :** ~47 000 mots (Tome 1 achevé)
+*   **Structure :** 15 chapitres denses (environ 16 pages/chapitre)
 *   **Thèmes :** Sacrifice, lutte des classes, écologie magique, romantisme interdit.
 *   **Comparaison :** *Red Queen* de Victoria Aveyard rencontre *L'Héritier de l'Illusion* de Pierre Bottero.
 

@@ -1,13 +1,13 @@
 # RAPPORT FINAL D'EXPANSION DU MANUSCRIT - LE PRIX DU SANG NOIR
 
 ## 1. BILAN QUANTITATIF FINAL
-L'objectif était de produire un manuscrit de qualité professionnelle avec une moyenne de ~1500 mots par chapitre, tout en respectant une fourchette acceptable de 1300-1500 mots pour les chapitres d'action ou de conclusion.
+L'objectif était de produire un manuscrit de qualité professionnelle avec une structure dense de 15 chapitres d'environ 3000 mots chacun.
 
 **Statistiques finales réelles (via `wc -w`) :**
-*   **Nombre de chapitres :** 30
-*   **Total du manuscrit :** 49 238 mots.
-*   **Moyenne par chapitre :** 1 641 mots.
-*   **Distribution :** Les chapitres oscillent entre 1345 mots (Ch 26) et 2312 mots (Ch 01), assurant une densité narrative constante et supérieure aux attentes initiales.
+*   **Nombre de chapitres :** 15
+*   **Total du manuscrit :** 47 332 mots.
+*   **Moyenne par chapitre :** 3 155 mots.
+*   **Distribution :** Les chapitres oscillent entre 2659 mots et 4045 mots, assurant une expérience de lecture immersive et rythmée.
 
 ## 2. STYLE LITTÉRAIRE (INSPIRATION PIERRE BOTTERO)
 Le style a été infusé systématiquement avec les marqueurs suivants :
@@ -30,6 +30,6 @@ Le style a été infusé systématiquement avec les marqueurs suivants :
 *   [x] Bible du Roman (`novel_bible.md`)
 *   [x] Fiches Personnages (`phase_4_characters.md`)
 *   [x] Structure & Plan de Chapitres (`phase_5_structure.md`, `phase_6_chapters.md`)
-*   [x] Manuscrit complet de 30 chapitres (`manuscript/`)
+*   [x] Manuscrit complet de 15 chapitres (`manuscript/`)
 
-**CONCLUSION :** Le manuscrit de "Le Prix du Sang Noir" est finalisé, densifié et optimisé pour un fort potentiel commercial (Romantasy). Il est prêt pour une publication ou une présentation éditoriale.
+**CONCLUSION :** Le manuscrit de "Le Prix du Sang Noir" est finalisé, densifié et structuré en 15 chapitres de 16 pages environ. Il est prêt pour une présentation éditoriale.

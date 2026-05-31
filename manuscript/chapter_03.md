@@ -1,62 +1,117 @@
-# CHAPITRE 3 : AU CŒUR DU ZÉNITH
+# CHAPITRE 3 : LA PREMIÈRE GORGÉE & MURMURES AU CONSEIL
 
-Le réveil ne fut pas une transition, pas une lente remontée vers la surface de la conscience. Ce fut une agression brutale de lumière. Non pas la clarté crue, vacillante et maladive des néons à sérum qui grésillaient dans les corridors du Nadir, mais une radiance diffuse, opale, presque vivante. Elle semblait émaner des murs eux-mêmes, comme si la pierre blanche du palais avait appris, au fil des siècles, à respirer l'éclat des étoiles pour le rejeter avec une douceur insultante.
 
-Elara Vance papillonna des paupières, la tête lourde comme si on l'avait remplie d'un plomb fondu et brûlant. Elle tenta de bouger le bras, mais son corps refusa de répondre à l'injonction de son esprit. Ses membres étaient engourdis, prisonniers d'une mollesse cotonneuse qui l'effraya bien plus que n'importe quelle blessure physique. C’était une paralysie de luxe, une prison de bien-être.
+Trois jours s’étaient écoulés depuis la signature fatidique du Pacte de Verre. Trois jours d’un luxe étouffant, une prison de velours qui ressemblait à une strangulation lente sous des draps de soie argentée. Elara Vance se sentait comme un animal de foire, une pièce de collection rare et dangereuse que l’on engraissait méticuleusement avant le sacrifice final. Chaque repas servi par des serviteurs Aethelgard au regard vide, chaque bain aux essences de fleurs de lune dont le parfum l'étourdissait, chaque heure de sommeil dans le silence absolu du Zénith ne faisait que renforcer sa révulsion pour ce monde d'en haut.
 
-Elle était allongée sur un lit. Un lit dont la simple existence était une insulte à sa vie passée. Les draps, tissés d'une soie argentée si fine qu'elle semblait s'écouler comme de l'eau sur sa peau, glissaient avec une indécence de caresse à chaque mouvement. C'était une sensation de confort absolu qui, pour une fille née dans la poussière de fer et le bruit des usines, avait l'amertume d'une trahison. Elle se sentait souillée par cette douceur, corrompue par ce moelleux qui cherchait à lui faire oublier qui elle était.
+La porte circulaire de sa chambre coulissa avec un sifflement pneumatique presque imperceptible, une respiration de machine bien huilée. Valerius entra.
 
-Elle finit par se redresser d'un bond, ignorant le vertige violent qui fit tanguer la pièce comme le pont d'un navire en pleine tempête. Ses mains s'agrippèrent avec une force désespérée au rebord du matelas. Ses doigts rencontrèrent une texture soyeuse, chaude, presque organique. Un luxe insupportable qui lui fit monter la nausée aux lèvres.
+Il paraissait plus pâle encore que lors de leur dernière rencontre nocturne. Ses traits étaient tirés, comme si une main invisible avait sculpté de nouvelles rides de fatigue et de douleur sur son visage de marbre éternel. Ses yeux argentés n’étaient plus des miroirs de mercure pur ; ils étaient devenus des surfaces d'acier terne, oxydées par une souffrance qu’il peinait désormais à dissimuler derrière son masque royal.
 
-La chambre était immense. Une cathédrale circulaire de cristal et d'argent. Un dôme de cristal translucide dont les parois étaient parcourues de veines d'argent pulsantes, comme le système nerveux d'un dieu endormi. Par les larges baies vitrées qui occupaient la moitié de l'espace, Elara vit ce que personne au Nadir ne pouvait même imaginer dans ses rêves les plus fous, ce que les légendes interdites peinaient à décrire avec assez de mots : le ciel.
+— Il est temps, dit-il simplement. Sa voix était une corde raide tendue au-dessus de l'abîme, prête à rompre au premier souffle.
 
-Ou du moins, ce qui servait de firmament dans ce monde dévasté.
+Il ne la conduisit pas vers la magnificence de la salle du trône, ni vers la fraîcheur artificielle des jardins. Ils empruntèrent un escalier en colimaçon, une vis de cristal noir qui s'enfonçait vers une aile isolée et protégée du palais. Ici, l’air changeait de consistance. Il était plus frais, plus sec, chargé d’une odeur d’ozone, de soufre et de réactifs chimiques complexes.
 
-Une voûte de nuages tourmentés, tourbillonnants, d'un pourpre sombre zébré de noir, s'étendait à perte de vue. Elle était illuminée, par en dessous, par les reflets constants des flèches de cristal du Zénith. Ces tours s'élançaient vers les hauteurs comme des cris de défi pétrifiés contre l'obscurité éternelle du cosmos. Ils étaient si hauts que la Cité d'Ébène, là-bas, tout en bas, ne paraissait plus être qu'une mer de brume industrielle grise, un souvenir lointain et insignifiant que l'on pouvait effacer d'un simple revers de main. Elara se sentit minuscule, un grain de poussière dans l'œil d'un géant.
+C’était son "Sanctuaire". Un laboratoire d’alchimie où la technologie industrielle du Nadir fusionnait avec la magie épurée des sommets. Des tubes de verre de Bohême, fins comme des cheveux, s'entrelacaient avec des dispositifs de cristal noir vibrant d’une lueur pourpre, presque organique.
 
-C'était magnifique. C'était répugnant. C'était le paradis bâti sur le sang de son peuple.
+— Assieds-toi, ordonna Valerius en désignant un fauteuil de cuir noir dont le dossier était sculpté en forme d'ailes.
 
-— Tu es enfin réveillée, porteuse d'ombre.
+Elara s’exécuta, son cœur battant la chamade contre ses côtes. Elle se sentait comme un oiseau captif qui cherchait désespérément une issue dans une cage de cristal. Elle vit Valerius préparer une seringue d’argent massif, gravée de runes de stabilisation complexes qui brillaient d'une lumière bleue. Ses mains, d'ordinaire d'un calme olympien, avaient un léger tremblement, un aveu de faiblesse qui ne lui échappa pas.
 
-La voix était un tintement de glace pure dans un verre de cristal de Bohême. Elara sursauta violemment, son cœur manquant un battement avant de repartir dans une course effrénée. Elle se tourna vers la source du son, ses muscles se tendant comme des ressorts d'acier. Valerius était debout près d'une fenêtre monumentale, tournant le dos à Elara, les mains croisées derrière lui. Il ne portait plus son armure de combat en cristal noir. À la place, il arborait une tunique de velours noir, si profond qu'il semblait absorber la lumière de la pièce, brodée de fils d'argent qui dessinaient des constellations que l'humanité avait oubliées depuis trois cents ans. La coupe parfaite du vêtement soulignait sa carrure athlétique, une élégance surnaturelle qui ne devait rien à l'artifice mais tout à une physiologie supérieure.
+— Je croyais que tu voulais boire à la source, mon Roi, provoqua-t-elle, cherchant à masquer sa propre terreur par une insolence de façade. Tu as peur de me mordre ? Ou as-tu peur de la vérité que tu pourrais découvrir en plongeant tes crocs dans mon âme ?
 
-Elara chercha frénétiquement une arme autour d'elle. Ses doigts grattèrent désespérément les draps de soie. Rien. Le vide. Sa clé à molette, sa dague de fortune, ses outils... tout ce qui la rattachait à sa réalité de survivante avait été méticuleusement retiré.
+Valerius s’arrêta net. Il se tourna vers elle, son regard se fixant avec une intensité insoutenable sur le cou d’Elara, là où l’artère carotide battait, rythmée par la peur et l'adrénaline. Un éclair de faim brute, une pulsion prédatrice vieille de trois siècles, traversa ses yeux argentés avant d'être réprimée par une volonté de fer.
+— Pour cette première fois, le prélèvement indirect est une nécessité vitale, Elara, répondit-il d'une voix basse, un murmure de glace. Ton sang est une bombe alchimique. Si je le consomme sans les filtres nécessaires, il me calcinera de l'intérieur avant même que mon noyau magique puisse en absorber les bienfaits. Je ne cherche pas à mourir aujourd'hui, je cherche à renaître.
 
-— Où est mon frère ? cracha-t-elle.
-Sa voix était une blessure ouverte, un cri enroué et sauvage qui déchira le silence ouaté et précieux de la chambre royale.
+Il s'approcha lentement. Le froid magnétique qu'il dégageait semblait s'intensifier à chaque pas, créant un micro-climat de givre autour de la table d'examen. Il nettoya la peau de son avant-bras gauche avec une solution à l'odeur de lavande et de fer. Le contact de ses doigts froids fut un choc thermique qui fit frissonner Elara jusqu'à la moelle.
 
-Le Roi se retourna lentement. Ses pas ne faisaient aucun bruit sur le sol de marbre blanc immaculé, comme s'il glissait sur un coussin d'air magique. Ses yeux argentés, profonds et changeants comme des puits de mercure en mouvement, se fixèrent sur Elara. Il ne cherchait pas à l'intimider, il n'en avait pas besoin. Sa simple présence était une pression atmosphérique, un poids invisible qui vidait la pièce de son oxygène et forçait les poumons d'Elara à brûler.
+L'aiguille d'argent pénétra sa chair. Elara ne broncha pas. Elle ne lui donnerait pas la satisfaction d'un cri ou d'un tressaillement. Elle regarda, fascinée et horrifiée, le liquide noir monter dans le tube transparent. C’était hypnotique. Une partie d’elle-même, sombre, ancestrale et puissante, s’écoulait hors de son corps pour alimenter le monstre qui l'avait asservie.
 
-— Leo est en sécurité, répondit-il avec un calme qui la rendit folle de rage. Il a été conduit dans les jardins inférieurs du palais. Un lieu de lumière artificielle constante, de cascades d'eau pure et de plantes réelles, Elara. Un luxe qu'il n'aurait jamais dû connaître, et qu'il ne doit qu'à la singularité terrifiante de ton sang.
+Une fois le tube rempli, Valerius le plaça dans un centrifugeur de cristal. L'appareil commença à vrombir, une musique de sphères déréglées qui résonna dans le laboratoire. Une lueur violette, intense et mystique, inonda la pièce alors que le Sang Noir était filtré, débarrassé de ses toxines les plus agressives par la résonance magique.
 
-Il s'approcha, s'arrêtant à une distance qui aurait pu paraître polie si elle n'avait pas été si chargée de menace. Elara pouvait sentir le froid magnétique qui émanait de lui, un givre invisible qui faisait se dresser les poils sur ses bras.
-— Pourquoi je suis ici ? Si je suis une "Abomination", comme vos gardes aiment à le hurler, pourquoi ne pas m'avoir jetée du haut de ces remparts ? Pourquoi ce lit ? Pourquoi ces draps ? Pourquoi ce simulacre de courtoisie ?
+— Voilà, murmura Valerius, ses yeux fixés sur le résultat. L’élixir de vie. L'antidote à l'éternité rouillée.
 
-Valerius la scruta en silence pendant de longues secondes, son regard argenté semblant sonder les profondeurs de son âme à la recherche de cette tache noire, de cette puissance obscure qu'il avait vue pulser sous sa peau au Nadir.
-— Parce que tu es la chose la plus précieuse et la plus dangereuse de ce royaume, Elara Vance. Tu es porteuse du Sang Noir. Un mythe que nous, les Aethelgard, croyions éteint avec les Anciens Dieux du Soleil et les premières lueurs de l'Éclipse.
+Il ne but pas immédiatement. Il transvasa le liquide purifié dans une coupe en cristal de roche noir. Puis, il s’assit sur un tabouret, juste en face d’Elara.
+— Regarde ce que nous sommes devenus, Elara. Des dieux qui dépendent de la charité et du sang de ceux qu’ils ont asservis pendant des siècles. C’est le paradoxe de Sang-Vail. La force est au sommet, mais la source de la vie est à la base, dans la poussière.
 
-Il leva une main, et Elara vit que ses propres doigts, serrés sur le drap d'argent, tremblaient de façon incontrôlable. Elle détesta cette faiblesse, elle détesta le fait qu'il la voie.
-— Mon peuple se meurt, Elara, continua le Roi, sa voix se teintant d'une mélancolie millénaire qui semblait peser des tonnes. L'argent qui coule dans nos veines s'oxyde, se ternit, s'épuise. Nous sommes devenus des parasites dépendants d'un sang humain trop faible, trop dilué par des générations de misère, pour nous sustenter indéfiniment. Sans un stabilisateur, sans l'essence originelle que tu portes en toi, nous deviendrons tous des Saigneurs. Des bêtes de rage sans esprit, dévorées par une faim que rien ne pourra jamais combler. Le Zénith s'effondrera dans la folie.
+Il porta la coupe à ses lèvres avec une solennité religieuse.
 
-Elara laissa échapper un rire sec, un son qui claqua comme un coup de fouet contre les parois de cristal et fit tressaillir les reflets d'argent.
-— Le grand Roi Valerius, le souverain de l'éternité, a besoin de la vermine du Nadir pour ne pas finir par baver comme un animal enragé dans son propre palais ? C'est... c'est d'une poésie délicieuse, Majesté. J'en ai presque les larmes aux yeux.
+L’effet fut instantané et dévastateur. Dès la première gorgée, le corps de Valerius se tendit comme un arc bandé à son point de rupture. Ses yeux s’écarquillèrent, virant brusquement au noir absolu, les pupilles disparaissant dans une marée de ténèbres liquides. Des veines argentées pulsèrent sur ses tempes, s’assombrissant à mesure que le Sang Noir purifié se propageait dans son système circulatoire complexe.
 
-Valerius ne s'offusqua pas de l'insulte sanglante. Il s'assit au bord du lit, un geste d'une intimité si soudaine et si brutale qu'Elara se colla contre la tête de lit en marbre, les muscles tendus, les dents serrées, prête à mordre s'il s'approchait d'un millimètre de plus.
-— Je n'ai pas besoin de la vermine, Elara. J'ai besoin de *toi*. Ton sang contient la fréquence vibratoire exacte nécessaire pour purifier le nôtre, pour arrêter l'oxydation de nos cellules. Mais il est aussi un poison fulgurant, une arme de destruction massive si on le consomme sans une préparation alchimique dont seuls mes maîtres d'œuvre possèdent le secret. Tu as vu ce qui est arrivé à mon garde au Nadir. Il n'en est resté qu'une tache sur le sol.
+Il lâcha la coupe. Elle se brisa sur le marbre blanc dans un fracas cristallin, mais il ne parut pas s'en apercevoir. Ses mains agrippèrent les accoudoirs de son siège avec une telle force que le bois ancien commença à gémir et à se fissurer.
 
-Il plongea son regard de mercure dans le sien, et pendant un instant éphémère, Elara crut voir, derrière le masque de marbre du monstre, un reflet de son propre désespoir, une solitude si vaste qu'elle aurait pu engloutir tout Sang-Vail.
-— Je vais te faire une proposition, Elara. Une offre que tu ne peux pas refuser, car le sort de ton frère en dépend. Car si tu refuses, Leo ne sera plus un invité des jardins de cristal, mais un cobaye pour mes alchimistes les moins... scrupuleux. Ils chercheront dans sa moelle ce qu'ils n'auront pu obtenir dans tes veines.
+— Trop... puissant... trop de lumière... articula-t-il dans un râle de gorge qui n’avait plus rien de civilisé.
 
-La peur lui noua l'estomac comme un poing de glace noire. Elle reconnut ce ton. C'était celui de la cité, celui du pouvoir sans partage. Celui qui ne laissait aucune place au choix, seulement à la soumission ou à la destruction totale.
+Elara se leva, partagée entre l’envie de s’enfuir par la porte dérobée et une pulsion d’aide qu’elle détestait de tout son être. Elle s’approcha prudemment, comme on s'approche d'un prédateur blessé dont on ne sait s'il va mordre ou s'effondrer.
+— Valerius ? Est-ce que tu... ?
 
-— Parle, monstre d'argent, murmura-t-elle, sa voix tremblante de haine. Dis-moi quel est le prix de la vie de mon frère. Dis-moi combien de litres de mon âme tu exiges pour le laisser respirer.
+Soudain, le Roi tendit le bras avec une rapidité qui défiait la vision humaine. Sa main se referma comme un étau sur le poignet d’Elara, là où brillait la rune d'Hématite. Sa force était phénoménale, écrasante, divine. Il la tira vers lui avec une violence irrésistible, l’obligeant à s’agenouiller entre ses jambes sur les éclats de cristal. Son visage était transfiguré par une extase qui ressemblait à une agonie insoutenable.
+
+— Je peux le sentir... souffla-t-il, son haleine chargée d'une odeur de soufre et de miel contre son oreille. Le soleil d'avant... ton sang porte le soleil d’avant les temps, Elara. Il brûle... il dévore... il est magnifique.
+
+Il enfouit brusquement son visage dans le creux de son cou, là où la peau était restée nue. Il n'utilisa pas ses crocs, pas encore. Il se contenta d'aspirer son odeur avec une ferveur désespérée, ses lèvres effleurant sa peau dans une caresse qui la fit frémir de dégoût et d'une autre émotion, plus sombre, qu'elle refusait de nommer. Elara était paralysée, le souffle court. Le Lien d’Hématite à son poignet s'embrasa, une brûlure blanche et électrique qui fusionnait leurs sensations, leurs peurs, leurs désirs.
+
+Elle sentit la vitalité de Valerius revenir par vagues sismiques dans son propre corps. C'était une énergie sauvage, une lumière d'argent qui luttait au corps à corps contre les ténèbres du sang noir. Pendant un instant éternel, toutes les barrières disparurent. Il n’y avait plus de Roi éternel, plus de rebelle du Nadir. Il n'y avait que deux polarités opposées qui se rejoignaient dans un arc électrique dévastateur, cherchant un équilibre impossible.
+
+Puis, aussi brusquement qu'il l'avait saisie, Valerius la repoussa. Il se leva d'une traite, sa pâleur de cadavre remplacée par un éclat vigoureux, presque aveuglant. Ses yeux étaient redevenus argentés, mais ils étaient désormais parcourus de minuscules éclairs de jais qui tourbillonnaient dans ses prunelles.
+
+— Sortez, dit-il. Sa voix vibrait d’une autorité retrouvée, mais elle était hachée, tremblante d'un trouble profond qu'il ne pouvait plus masquer. Sortez de cette pièce, Elara Vance. Maintenant. Avant que je n'oublie ma promesse.
+
+Elle ne demanda pas son reste. Elle s’enfuit dans les couloirs glacés du Zénith, ses jambes tremblantes manquant de se dérober à chaque pas sur le marbre. Mais elle ne put effacer la sensation de ses lèvres froides contre sa peau chaude, ni cette vérité terrifiante qu’elle venait d’entrevoir : elle commençait à aimer le pouvoir absolu qu’elle exerçait sur le maître de Sang-Vail.
+
+Elle n'était plus sa prisonnière. Elle devenait sa maîtresse, sa drogue, son unique chance de ne pas sombrer dans le néant. Et lui, il devenait le centre de son monde, un astre noir autour duquel elle n'avait d'autre choix que de graviter.
+
+
+***
+
+
+Le Zénith n’était pas seulement un lieu de lumière éternelle, de cristal poli et de parfums rares qui étourdissaient les sens. C’était un nid de vipères d'argent, une arène silencieuse et impitoyable où les ambitions des immortels s'aiguisaient comme des lames de verre prêtes à trancher des gorges au premier signe de faiblesse. Dans les profondeurs du Palais de Cristal Noir, là où les murs semblaient avoir des oreilles et où les ombres elles-mêmes possédaient une intention malveillante, le pouvoir se murmurait dans les recoins sombres plus qu'il ne s'exerçait au grand jour. Tandis qu'Elara Vance, encore étourdie par la violence sensorielle du premier prélèvement, tentait désespérément de retrouver ses esprits dans la solitude de sa chambre circulaire, une autre réunion se tenait dans le Sanctuaire des Anciens, une pièce aux parois de cristal fumé dont les vitres donnaient sur l'abîme gris et infini du Nadir.
+
+Lord Malakor observait la ville d'un œil morne, ses traits figés dans une expression de mépris souverain. Ses longs doigts effilés, d'une pâleur de cire qui trahissait son âge séculaire, tambourinaient sur le rebord de pierre froide dans un rythme irritant. Derrière lui, trois autres membres influents du Conseil des Anciens attendaient dans une immobilité de statues, leurs respirations étant les seuls battements de cœur audibles dans cette atmosphère consacrée au complot et à la peur.
+
+— Le Roi a retrouvé sa force, commença la marquise Selyne d'une voix qui ressemblait au froissement d'un parchemin oublié dans une bibliothèque poussiéreuse. Les rapports des Gardiens d'Élite sont formels et inquiétants, Lord Malakor. Il a été vu marchant dans les Jardins Suspendus ce matin, sans aucune aide. Il ne s'appuyait plus sur son sceptre de cérémonie. Sa démarche possédait à nouveau cette arrogance tranquille, cette vigueur que nous n'avions pas vue depuis des décennies, peut-être même des siècles.
+
+Malakor se retourna avec une lenteur de reptile, ses yeux d'un gris de cendre terne se fixant sur ses collègues. Ils étaient dépourvus de cet éclat de mercure, de cette étincelle de puissance royale qui caractérisait la lignée de Valerius.
+— Une vigueur empruntée à une Abomination, cracha-t-il, l'amertume colorant ses mots d'un ton acide et corrosif qui semblait brûler l'air de la pièce. Valerius se nourrit de Sang Noir. Il profane nos lois les plus sacrées, celles-là mêmes qui nous distinguent des bêtes sauvages qui grattent aux murs de la cité, simplement pour prolonger un règne qui aurait dû s'éteindre avec l'Éclipse de sa propre légitimité. Il pactise avec l'ennemi. Il souille l'argent de nos veines avec la lie du Nadir.
+
+— Mais s'il est vraiment en train de guérir... hasarda un conseiller plus jeune, nommé Aris, dont les bijoux en hématite polie tintaient discrètement à chaque mouvement nerveux de ses mains. Si cet antidote légendaire fonctionne réellement, ne devrions-nous pas nous réjouir ? La Chute, cette oxydation qui nous menace tous, pourrait être évitée. Nous pourrions tous bénéficier de cette... ressource.
+
+Malakor laissa échapper un rire qui n'avait rien de joyeux, un son sec et cassant qui rappela à l'assistance le bruit d'un os que l'on écrase sous un talon.
+— Il ne guérit pas, Aris. Tu es d'une naïveté qui me consterne. Le Sang Noir est une drogue. Une drogue puissante, addictive et profondément corruptrice pour notre physiologie. Plus Valerius en consommera, plus il deviendra l'esclave volontaire de cette ratte du Nadir. Et plus il sera instable. Avez-vous remarqué ses prunelles ? Il y a des reflets d'ombre, des taches d'encre qui dévorent l'argent maintenant. Il se corrompt de l'intérieur, il s'obscurcit, et il entraînera toute l'Hémostase dans son agonie finale. Nous ne serons plus les maîtres de Sang-Vail, nous serons les serviteurs d'un hybride instable qui finira par nous vider pour nourrir ses propres démons.
+
+Il fit un pas vers la table centrale en obsidienne, où une carte holographique de Sang-Vail flottait, un colosse de lumière bleutée et vacillante qui semblait respirer au rythme de la cité.
+— Les humains du Nadir s'agitent, reprit Malakor, sa voix baissant d'un ton pour devenir un murmure conspirateur qui s'insinuait dans l'esprit des conseillers. Ils ont entendu les rumeurs colportées par les techniciens. Ils croient que leur "Sauveuse", la fille du sang mythique, est détenue ici contre son gré. Ils voient en elle l'étincelle qui mettra le feu à leurs chaînes. Si Valerius continue de la protéger comme son trésor le plus précieux, il provoquera une insurrection massive que nous ne pourrons pas écraser sans l'unité totale et violente du Conseil. Le système de taxation, le fondement même de notre survie, va s'effondrer.
+
+D'un geste sec et méprisant de la main, il fit apparaître une image capturée par les caméras de surveillance du Secteur 12. On y voyait Elara Vance, les yeux transformés en orbes de nuit absolue, le bras levé au milieu de la mare de sang noir qui avait été un garde royal.
+— Cette fille est un virus, conclut Malakor, son doigt pointé vers l'hologramme. Elle est la mort de notre civilisation. Elle doit disparaître. Et Valerius avec elle, avant qu'il ne soit trop tard pour que nous puissions encore appeler ce monde le nôtre.
+
+— Tu proposes un régicide, Malakor ? murmura Selyne, ses doigts se resserrant sur son éventail d'ivoire sculpté. C'est un chemin sans retour. Une porte ouverte sur un abîme que nous ne pourrons jamais refermer.
+
+— Je propose une restauration, répliqua-t-il avec un sourire qui révélait des crocs d'une blancheur agressive et inhumaine. Sang-Vail a besoin d'un chef qui ne craint pas de plonger ses mains dans le sang pour sauver la pureté de notre espèce. Imaginez un instant ce que serait notre avenir... ne plus jamais craindre l'oxydation, ne plus jamais sentir le froid de la vieillesse nous gagner. En extrayant le Sang Noir directement de la source, en le stabilisant par nos propres méthodes alchimiques secrètes, nous deviendrons véritablement éternels. Nous ne serons plus seulement des rois de passage. Nous serons les dieux de ce monde. Des êtres de lumière et d'ombre parfaits.
+
+L'ambition, ce prédateur affamé et insatiable qui sommeille au cœur de chaque Aethelgard, brilla instantanément dans les yeux des conseillers. Le germe de la trahison venait de trouver une terre fertile, grasse de peur, de rancœur et d'un désir de puissance démesuré. Le silence qui suivit fut celui d'un assentiment tacite, d'un pacte passé dans les ténèbres.
+
+— Comment comptes-tu t'y prendre ? demanda enfin Aris, sa voix trahissant une excitation qu'il ne parvenait plus à masquer. Valerius la garde sous une surveillance constante. Cassian dort devant sa porte. Elle est logée dans l'aile la plus sécurisée du palais.
+
+Malakor se tourna vers l'ombre épaisse d'une alcôve, là où la lumière des cristaux muraux ne parvenait pas, créant un sanctuaire de noirceur.
+— Le Roi possède une faille qu'il n'avait pas auparavant. Son nouveau Lien d'Hématite. Cette chaîne magique, ce contrat forcé, le rend vulnérable aux émotions de la fille, à sa douleur physique, à sa terreur psychologique. Nous n'avons pas besoin de l'attaquer de front avec nos armées ou nos magies. Il suffit de briser Elara Vance de l'intérieur. De la pousser dans un désespoir si profond que le Roi s'y noiera avec elle par simple résonance sympathique.
+
+Il fit signe à une silhouette qui attendait patiemment dans la pénombre de l'alcôve. Le Commandant Varen s'avança avec une hésitation qui trahissait sa gêne dans ce milieu de haute noblesse. Son visage était marqué par une cicatrice de brûlure toute fraîche, stigmate hideux de sa rencontre avec le sang noir d'Elara au Nadir.
+— Vous connaissez bien cette ratte des conduits, n'est-ce pas, Varen ? Vous savez ce qui fait battre son petit cœur humain avec le plus d'intensité et de fragilité ?
+
+Varen inclina la tête, une lueur de haine pure et de désir de vengeance brillant dans son regard.
+— Son frère, Lord Malakor. Leo Vance. Il est sa seule faiblesse réelle. Son unique raison de ne pas s'ouvrir les veines ou de ne pas se jeter dans les turbines pour mettre fin à son calvaire. Elle vit pour lui. Elle meurt pour lui.
+
+— Bien, murmura Malakor, ses yeux se plissant de satisfaction. Faites en sorte que le garçon rencontre un "accident" regrettable lors de sa promenade dans les jardins d'hiver demain matin. Quelque chose de public. Quelque chose d'atroce qui frappera les esprits. Nous devons pousser Elara à une réaction violente, un acte de fureur incontrôlée et meurtrière qui forcera Valerius à choisir entre elle et la survie de son trône devant l'ensemble de la noblesse réunie. Si elle tue un noble, il devra l'exécuter. S'il ne le fait pas, il signe son propre arrêt de mort politique. Dans les deux cas, nous gagnons.
+
+Malakor reprit sa contemplation de la cité obscure au-delà des vitres, son reflet maléfique se superposant aux lumières vacillantes et misérables du Nadir, comme si son ombre recouvrait déjà le monde entier dans un linceul de fer.
+— Que la chasse commence. Et que Sang-Vail se souvienne enfin de qui possède véritablement le pouvoir de donner la vie, et surtout celui de la reprendre dans un cri de douleur.
 
 **MÉTAPHORES ET IMAGES FORTES :**
-1. "La pierre blanche du palais avait appris à respirer l'éclat des étoiles." (Anthropomorphisme/Merveilleux)
-2. "Le palais de cristal noir n'était pas une construction. C'était un cri figé dans le verre." (Métaphore architecturale)
-3. "Ses yeux argentés... changeants comme des puits de mercure en mouvement." (Image sensorielle de Valerius)
-4. "Le Zénith s'élançait vers les hauteurs comme des cris de défi pétrifiés contre l'obscurité." (Métaphore spatiale)
-5. "La peur lui noua l'estomac comme un poing de glace noire." (Métaphore physique de l'émotion)
+1. "Un nid de vipères d'argent... où les ambitions s'aiguisaient comme des lames de verre." (Image animale/Physique)
+2. "Une vigueur empruntée à une Abomination... l'amertume colorant ses mots d'un ton acide." (Métaphore sensorielle/Tension)
+3. "L'ambition, ce prédateur affamé et insatiable qui sommeille au cœur de chaque Aethelgard." (Anthropomorphisme/Psychologie)
+4. "Le germe de la trahison... trouvé une terre fertile, grasse de peur et de désir." (Image végétale organique/Style Bottero)
+5. "Son reflet maléfique... comme si son ombre recouvrait déjà le monde entier dans un linceul de fer." (Poésie sombre)
 
 **TRANSITION :**
-Valerius se leva lentement, sa silhouette se découpant comme une ombre fatidique contre l'horizon pourpre du ciel dévasté, et Elara sut que le pacte qu'il s'apprêtait à lui proposer allait lier leurs sangs pour l'éternité.
+Tandis que le complot s'enracinait dans les ténèbres du pouvoir absolu, un frisson de glace parcourut l'échine d'Elara dans sa chambre, comme si son Sang Noir pressentait déjà la morsure de la trahison imminente.
