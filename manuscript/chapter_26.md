@@ -26,7 +26,7 @@ Kael et les résistants, mais aussi les soldats de Malakor encore conscients et 
 
 Les Spectres de Sang, privés de l'énergie de haine de leur créateur, commencèrent à se dissoudre dans l'atmosphère, leurs hurlements silencieux s’évaporant dans la clarté grise comme des songes au réveil.
 
-— Le Roi a changé, Kael. Valerius a sacrifié son immortalité pour sauver Leo. Il a choisi de mourir en homme plutôt que de régner en monstre. Le vieux système est mort dans l'explosion du réacteur. Mais Malakor, lui, est toujours là, et il est devenu quelque chose que même les Aethelgard craignent. S'il surcharge les cuves de vapeur industrielles profondes, Lux-Vail ne sera plus qu'un cratère de cendres fumantes. Nous disparaîtrons tous.
+— Le Roi a changé, Kael. Valerius a sacrifié son immortalité pour sauver Leo. Il a choisi de mourir en homme plutôt que de régner en monstre. Le vieux système est mort dans l'explosion du réacteur. Mais Malakor, lui, est toujours là, et il est devenu quelque chose que même les Aethelgard craignent. S'il surcharge les cuves de vapeur industrielles profondes, Sang-Vail ne sera plus qu'un cratère de cendres fumantes. Nous disparaîtrons tous.
 
 Soudain, une décharge d’ombre pure, noire comme du goudron divin, frappa une citerne de vapeur à proximité, projetant Elara au sol avec une violence inouïe. L’acier de la citerne, épais de vingt centimètres, se tordit et se froissa comme s’il était fait de vulgaire papier de soie. Malakor apparut alors au sommet d’une passerelle de maintenance surplombant le carrefour des Soupirs.
 
