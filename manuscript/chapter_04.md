@@ -13,7 +13,7 @@ Il s'arrêta net et se tourna vers elle, son regard argenté brillant d'une lueu
 — Et Leo ? Et les miens qui crèvent de faim dans la rouille du bas ?
 Les mots d'Elara claquèrent comme des coups de fouet, chargés d'une urgence qui fit tressaillir les reflets d'argent sur les murs.
 
-— Ton frère recevra les meilleurs soins alchimiques. Il sera instruit par les plus grands savants Aethelgard, ceux qui connaissent les secrets des étoiles et de la matière. Ta famille sera exemptée de la taxe-sang à perpétuité, un privilège unique dans l'histoire de Lux-Vail. Et plus important encore...
+— Ton frère recevra les meilleurs soins alchimiques. Il sera instruit par les plus grands savants Aethelgard, ceux qui connaissent les secrets des étoiles et de la matière. Ta famille sera exemptée de la taxe-sang à perpétuité, un privilège unique dans l'histoire de Sang-Vail. Et plus important encore...
 
 Valerius fit un pas décisif vers elle, son visage de marbre s'animant d'une intensité qui fit reculer Elara de quelques centimètres.
 — J'arrêterai les rafles punitives dans le Secteur 12 pour les dix prochaines années. Le quota de sang prélevé sera réduit de moitié pour tous les humains du Nadir. C'est le prix que je suis prêt à payer pour ton obéissance, Elara. C'est le salut de ton peuple contre une partie de ta vie.
