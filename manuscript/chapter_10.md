@@ -1,46 +1,43 @@
 # CHAPITRE 10 : CICATRICES COMMUNES
 
-Après l'incursion au Nadir, le silence était revenu dans le sanctuaire de Valerius. Mais c'était un silence chargé d'électricité statique. Elara était assise sur une table d'examen, tandis que Valerius soignait une griffure qu'elle avait reçue en aidant les blessés.
+Le retour au Zénith, après l'incursion sanglante et fiévreuse dans la misère poisseuse du Nadir, fut marqué par un silence de plomb qui semblait étouffer jusqu'au moindre bruit de pas sur le marbre immaculé. Mais dans l'enceinte circulaire du Sanctuaire de Valerius, ce silence n’était plus seulement fait de distance royale et de mépris de classe ; il était désormais chargé d’une électricité statique palpable, d'une tension vibrante qui modifiait la densité même de l'air. Elara Vance était assise sur le rebord d'une table d'examen en cristal fumé, ses jambes balançant dans le vide avec une nervosité qu'elle tentait de masquer, tandis que Valerius appliquait avec une infinie précaution un onguent argenté sur une griffure profonde qu’elle avait reçue en s'interposant pour protéger une blessée du Secteur 12.
 
-— Tu n'avais pas besoin de descendre là-bas, dit-elle, rompant le calme.
+— Tu n’avais pas besoin de descendre là-bas, finit-elle par dire, brisant le calme fragile et précieux qui régnait entre eux comme un pont de verre. Tu aurais pu envoyer Cassian faire le sale boulot. Tu as pris un risque immense pour ton image de souverain impénétrable. Malakor va se servir de cette incartade pour te peindre comme un Roi qui a perdu le sens des réalités.
 
-— J'en avais besoin, répondit Valerius en appliquant un onguent argenté sur son bras. J'avais oublié l'odeur de la poussière. Et le poids des regards.
+— J’en avais besoin, Elara, répondit Valerius sans lever les yeux de la plaie qu'il pansait avec une dextérité surprenante. Sa voix était sourde, dénuée pour une fois de son habituelle arrogance aristocratique. J’avais oublié l’odeur de la poussière froide qui s'insinue sous les ongles. Le goût métallique de la sueur sur les lèvres. Et le poids insupportable de ces milliers de regards qui ne demandent pas de l'or ou des honneurs, mais simplement la permission de respirer un jour de plus. J'avais besoin de me souvenir du prix réel de ma couronne de cristal. Elle est forgée dans cette souffrance.
 
-Il s'arrêta un instant, ses doigts effleurant la cicatrice de prélèvement sur le poignet d'Elara – celle de sa toute première collecte, des années auparavant.
+Il s’arrêta un instant dans son geste de soin, ses doigts glacés effleurant presque avec une tendresse interdite la cicatrice de prélèvement sur le poignet gauche d’Elara – cette marque boursouflée, stigmate indélébile de son enfance volée, qu’elle portait depuis sa toute première collecte fiscale forcée, alors qu'elle n'avait que dix ans.
+— Tu m’as demandé un jour comment Elena avait pu ouvrir son cœur à un être aussi froid que moi, commença-t-il, ses prunelles d'argent se fixant enfin sur les siennes avec une intensité qui lui fit physiquement mal à la poitrine. Elle ne voyait pas le Roi des Aethelgard, le prédateur suprême. Elle voyait l’homme qui avait survécu à l’effondrement du Premier Monde, celui qui existait avant que l'Éclipse ne vienne tout effacer. Nous portons tous des cicatrices, Elara. Les tiennes sont inscrites sur ta chair, elles sont ton armure, ton histoire et ta force de vie. Les miennes... les miennes sont invisibles pour le commun des mortels. Elles sont à l’intérieur, logées dans les replis de mon immortalité, et elles me consument plus sûrement que n'importe quel poison alchimique.
 
-— Tu m'as demandé comment Elena a pu m'aimer, commença-t-il sans lever les yeux. Elle ne voyait pas le Roi. Elle voyait l'homme qui avait survécu à l'effondrement du premier monde. Nous portons tous des cicatrices, Elara. Les tiennes sont visibles. Les miennes sont à l'intérieur.
+D’un geste brusque, presque impulsif, comme s'il craignait de perdre courage, il ouvrit le col montant de sa tunique de cérémonie noire. Il laissa glisser le velours sombre sur son épaule droite, révélant alors une marque hideuse, une tache d’oxydation d'un gris de cendre qui partait de son cœur et s’étendait en ramifications tortueuses et sombres vers son cou. C’était une zone de chair morte, une nécrose magique qui contrastait violemment avec la perfection d’albâtre et d'ivoire du reste de son corps sculptural.
 
-Il ouvrit sa propre tunique, révélant une marque sombre qui partait de son cœur et s'étendait vers son épaule. C'était une tache d'oxydation, signe que son sang argenté se décomposait.
+— Malakor croit que je cherche désespérément le Sang Noir pour devenir un dieu, pour régner mille ans de plus sur ce champ de ruines que nous appelons un royaume, reprit Valerius d'une voix qui n'était plus qu'un murmure de glace se brisant. La vérité est bien plus triviale, Elara. Je le cherche pour rester simplement... moi-même. Pour ne pas devenir l’une de ces bêtes hurlantes et dénuées de raison qui grattent chaque nuit aux remparts de la cité avec leurs griffes de fer. Je suis en train de tomber, Elara. Je suis en train de rouiller comme un vieux mécanisme abandonné dans les conduits humides du Nadir. Mon éternité est en train de s'effriter millimètre par millimètre.
 
-— Malakor croit que je cherche le Sang Noir pour devenir un dieu. La vérité est que je le cherche pour rester simplement... moi-même. Pour ne pas devenir l'une de ces bêtes qui hurlent sous la lune noire.
+Elara fixa la marque d’oxydation avec une fascination mêlée d'effroi. Ce n’était pas répugnant à ses yeux, car elle connaissait trop bien la rouille. C’était tragique. C’était l’aveu de la mortalité au cœur même de l'immortalité. Elle vit soudainement la fragilité immense qui se cachait derrière le masque de marbre du monstre, et cette découverte lui fit plus de mal que tous les coups de Varen. Elle comprit, dans un éclair de lucidité, qu'ils étaient dans le même bateau de verre, naufragés d'un monde qui se mourait de ses propres excès.
+— Pourquoi ne l’as-tu dit à personne ? Pas même à Cassian, qui donnerait sa vie pour toi sans hésiter ?
 
-Elara regarda la marque. C'était la première fois qu'elle voyait la faiblesse d'un Aethelgard. Ce n'était pas répugnant ; c'était tragique.
+— La faiblesse d’un roi est une invitation au carnage généralisé, murmura-t-il, refermant brusquement son vêtement comme pour cacher une honte insupportable. Si le Conseil apprenait à quel point je suis proche de la Chute finale, Sang-Vail brûlerait en une seule nuit sous le feu de la guerre civile. Malakor n’attend que cette fissure dans l'édifice pour tout raser et reconstruire sur nos cendres.
 
-— Pourquoi ne l'as-tu dit à personne ?
+Il reprit sa posture de souverain, redressant ses épaules, mais l'illusion de puissance absolue était définitivement brisée pour Elara. Elle voyait l'homme derrière le mythe.
+— Nous sommes liés maintenant, Elara. Pas seulement par ce Pacte de sang que nous avons signé dans la douleur, mais par ce secret que je viens de te confier. Si je tombe dans l'oxydation, tu tombes avec moi dans l'abîme. Malakor te videra jusqu’à la dernière goutte de ton Sang Noir avant de te jeter en pâture aux Saigneurs pour tester tes limites de régénération. Et ton frère subira un sort encore plus cruel dans ses laboratoires.
 
-— La faiblesse d'un roi est une invitation au massacre. Si le Conseil savait à quel point je suis proche de la chute, la cité brûlerait en une nuit.
+Elara se laissa glisser de la table de cristal, ses pieds touchant le sol sans bruit. Elle fit un pas vers lui, si près qu’elle pouvait sentir le froid sidéral qui émanait de son être, un froid qui cherchait désespérément une source de chaleur. Elle leva sa main calleuse, marquée par le travail manuel, et, pour la toute première fois, ce fut elle qui initia le contact. Elle posa ses doigts sur sa joue de marbre blanc.
 
-Il referma son vêtement.
+Valerius ne recula pas d'un millimètre. Il ferma les yeux, un long soupir, presque un sanglot de soulagement refoulé, s’échappant de ses lèvres pâles. Pendant un instant éternel, la barrière de haine entre le prédateur et la proie, entre le Zénith et le Nadir, s’effaça totalement de la surface du monde. Ils n’étaient plus que deux âmes en sursis, deux étincelles perdues dans l’immensité d’une nuit qui ne finissait jamais, cherchant désespérément un repère dans le vide.
 
-— Nous sommes liés maintenant, Elara. Pas seulement par ton sang, mais par ce secret. Si je tombe, tu tombes avec moi. Et Leo aussi.
+— Je ne te laisserai pas devenir un monstre, Valerius, murmura Elara, et ses propres mots l'étonnèrent par leur sincérité vibrante. Pas parce que je tiens à ton trône de verre fumé. Mais parce que le Nadir a besoin d’un Roi qui se souvient encore de l'humanité derrière les lois de fer. Et parce que... parce que je refuse de voir la lumière d'Elena s'éteindre une seconde fois dans tes yeux.
 
-Elara se laissa glisser de la table. Elle s'approcha de lui, si près qu'elle pouvait sentir le froid émaner de son corps. Elle leva la main et, pour la première fois, ce fut elle qui initia le contact. Elle posa ses doigts sur sa joue de marbre.
+Valerius ouvrit les yeux. L’argent et le noir s’y mélangeaient désormais dans un tourbillon fascinant, une aube nouvelle qui cherchait à percer l'obscurité séculaire. Il posa sa main sur celle de la jeune femme, pressant ses doigts contre sa joue avec une ferveur contenue.
+— C’est la chose la plus cruelle et la plus belle que l’on m’ait dite depuis deux siècles, répondit-il, sa voix vibrant d'une émotion nouvelle.
 
-Valerius ne recula pas. Il ferma les yeux, un long soupir s'échappant de ses lèvres. Pendant un instant, la barrière entre le prédateur et la proie s'effaça. Ils n'étaient plus que deux âmes perdues dans l'obscurité de Sang-Vail.
+Le moment d'intimité, suspendu hors du temps, fut brutalement brisé par le tintement cristallin et strident d’une cloche d’argent. Un message d'urgence prioritaire, codé en rouge vif, clignota sur le moniteur de la pièce, inondant le Sanctuaire d'une lueur d'alarme. Lord Malakor venait de convoquer une session extraordinaire du Conseil des Anciens pour le lendemain matin à l'aube. Le piège de velours et d'ombre était prêt à se refermer sur eux, et cette fois, il n'y aurait aucune retraite possible. La guerre pour l'âme de Sang-Vail venait de franchir le seuil de leur refuge.
 
-— Je ne te laisserai pas devenir un Saigneur, murmura-t-elle. Pas parce que je tiens à toi. Mais parce que le Nadir a besoin d'un Roi qui se souvient encore de l'odeur de la poussière.
+**MÉTAPHORES ET IMAGES FORTES :**
+1. "Un silence de plomb... chargé d'une électricité statique palpable." (Atmosphère/Physique)
+2. "Je suis en train de rouiller comme un vieux mécanisme abandonné." (Anthropomorphisme technologique)
+3. "Deux âmes en sursis... cherchant un repère dans le vide." (Inspiration Bottero/Psychologie)
+4. "Le piège de velours et d'ombre." (Métaphore de la trahison politique)
+5. "L'aveu de la mortalité au cœur de l'immortalité." (Tension thématique centrale/Rythme ternaire)
 
-Valerius ouvrit les yeux. L'argent et le noir s'y mélangeaient dans un tourbillon fascinant.
-
-— C'est la chose la plus cruelle et la plus belle que l'on m'ait dite depuis deux siècles.
-
-Le moment fut brisé par le tintement d'une cloche d'argent. Un message urgent de Lyra. Malakor convoquait une session extraordinaire du Conseil pour le lendemain. Le piège se refermait.
-
----
-
-## ANALYSE PHASE 9 & 10
-*   **Style immersif :** Intimité du sanctuaire, description de l'oxydation du Roi.
-*   **Émotion :** Vulnérabilité partagée, première tendresse ambigüe.
-*   **Suspense :** 92/100 (La révélation de la maladie de Valerius, la convocation du Conseil).
-*   **Rythme :** 91/100 (Dialogue introspectif riche en révélations).
-*   **Note Globale : 92/100**
+**TRANSITION :**
+Tandis que Valerius se préparait mentalement à affronter son destin face à un Conseil assoiffé de pouvoir, Elara sut que la véritable guerre ne se jouerait pas seulement dans les salles d'audience, mais dans chaque pulsation de leur sang désormais irrémédiablement entrelacé.
