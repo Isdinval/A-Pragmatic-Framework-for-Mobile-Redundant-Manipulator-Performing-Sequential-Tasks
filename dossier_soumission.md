@@ -1,50 +1,26 @@
-# DOSSIER DE SOUMISSION ÉDITORIALE : LE PRIX DU SANG NOIR
+# DOSSIER DE SOUMISSION : "LE PRIX DU SANG NOIR"
 
-## 1. FICHE TECHNIQUE
-*   **Titre :** Le Prix du Sang Noir
-*   **Genre :** Romantasy / Thriller Dystopique
-*   **Cible :** Young Adult / Adult (16-30 ans)
-*   **Nombre de mots :** ~47 000 mots (Tome 1 achevé)
-*   **Structure :** 15 chapitres denses (environ 16 pages/chapitre)
-*   **Thèmes :** Sacrifice, lutte des classes, écologie magique, romantisme interdit.
-*   **Comparaison :** *Red Queen* de Victoria Aveyard rencontre *L'Héritier de l'Illusion* de Pierre Bottero.
+## 1. INFORMATIONS GÉNÉRALES
+- **Titre** : Le Prix du Sang Noir
+- **Genre** : Science-Fiction / Dystopie / Science-Fantasy
+- **Public Cible** : Young Adult / New Adult (16-30 ans), fans de *Red Rising*, *Dune* et *Shadow and Bone*.
+- **Longueur** : ~75 000 mots.
+- **Style** : Immersif, lyrique, focalisé sur l'émotion et la physicalité.
 
-## 2. ARGUMENTAIRE (HOOK)
-Dans une cité de fer privée de soleil, le sang est la seule monnaie. Pour sauver son frère, Elara doit infiltrer le Zénith et offrir son "Sang Noir" au Roi d'Argent. Mais elle ignore que son sang n'est pas un remède, c'est l'étincelle qui va consumer le monde.
+## 2. PITCH (High Concept)
+Dans un monde privé de soleil depuis trois siècles, le sang est devenu la seule monnaie et l'unique source de chaleur. Elara Vance est un "Nectar", une aristocrate dont le sang noir peut alimenter une cité entière. Mais quand elle découvre que son sang est aussi la clé pour rallumer le soleil et détruire le système qui l'opprime, elle doit choisir entre sa vie de privilèges et la survie de l'humanité.
 
----
+## 3. SYNOPSIS COMPLET
+Dans la cité souterraine de Sang-Vail, l'humanité survit sous un Grand Voile de cendres. Les Aethelgard (l'élite) exploitent le sang des mineurs du Nadir pour alimenter les générateurs thermiques. Elara Vance, héritière d'une lignée dont le sang noir est hyper-énergétique, s'enfuit avec son frère Léo, un génie de la mécanique, pour échapper à une ponction mortelle ordonnée par le Sun-King Malakor.
 
-## 3. LETTRE D'ACCOMPAGNEMENT
-À l'attention du comité de lecture,
+Traqués par Silas, un garde d'élite, ils traversent les déserts de glace et les cités déchues de Nox et Argentum. Ils découvrent que le Grand Voile n'est pas une catastrophe naturelle, mais une arme climatique ancienne. Pour rallumer le monde, Elara doit atteindre l'observatoire d'Hyperborée et sacrifier son Sang Noir dans le cœur de la ionosphère. Au prix d'un duel épique et de la perte de ses pouvoirs, elle libère le soleil, abolissant l'économie du sang et offrant à l'humanité un "Premier Été".
 
-J’ai le plaisir de vous soumettre le manuscrit du premier tome de ma saga de Romantasy, *Le Prix du Sang Noir*.
+## 4. POTENTIEL DE SÉRIE (TRILOGIE "L'ÉCLIPSE DE FER")
+- **Tome 2 : L'Exode des Cendres** : La reconstruction. Les anciennes cités s'effondrent sous le dégel. Elara doit mener les survivants vers le Sud, affrontant des fanatiques religieux qui veulent restaurer l'obscurité.
+- **Tome 3 : Le Zénith de Verre** : La découverte d'une colonie orbitale qui contrôlait le Grand Voile. Le combat final pour la souveraineté de la Terre.
 
-Inspiré par la poésie brute de Pierre Bottero et la tension des grandes dystopies contemporaines, ce roman explore un monde où l’économie de la vie est littéralement basée sur le prélèvement sanguin. Le récit suit Elara, une voleuse du Nadir, et Valerius, un souverain immortel prisonnier de sa propre soif, dans une quête pour ramener la lumière dans une cité qui a oublié le jour.
-
-Ce projet se distingue par son système de magie unique (l’Hémostase), son atmosphère industrielle sombre et une romance "enemies-to-lovers" qui interroge les notions de prédation et de sacrifice. Conçu comme un récit complet et autonome, il possède néanmoins un fort potentiel d'expansion en série.
-
-Je me tiens à votre disposition pour tout échange concernant ce manuscrit.
-
-Cordialement,
-[Votre Équipe Éditoriale]
-
----
-
-## 4. RÉSUMÉ ACCROCHEUR (BLURB)
-**La nuit ne finit jamais à Sang-Vail. Et le sang y coule comme de l’or.**
-
-Elara Vance n’est personne. Une ombre dans les bas-fonds du Nadir. Mais quand le redoutable Commandant Varen arrête son frère pour "dette sanguine", elle n'a plus le choix. Elle doit passer un pacte avec le monstre du Zénith : le Roi Valerius.
-
-Lui, l’Aethelgard immortel, se meurt. Il a besoin du Sang Noir, une légende interdite, pour stabiliser son pouvoir. Elara est cette légende. Mais en entrant dans le palais de cristal, elle découvre que le Roi n’est pas le bourreau qu’elle imaginait, et que l’ennemi le plus dangereux se cache dans l’ombre du trône.
-
-Entre trahisons politiques, secrets millénaires et un lien mystique qui fusionne leurs âmes, Elara devra décider : sauvera-t-elle son frère, ou la cité tout entière ?
-
----
-
-## 5. SYNOPSIS COMPLET (DÉTAILLÉ)
-**Attention : contient la fin de l'intrigue.**
-
-*   **Acte 1 :** Elara est capturée alors qu'elle tente de sauver son frère Leo. Pour le libérer, elle accepte de servir de "source" privée au Roi Valerius. Ce dernier est atteint d'une maladie de sang (l'oxydation). Elara découvre que son "Sang Noir" peut le soigner, mais qu'il crée un lien sensoriel et émotionnel (le Lien d'Hématite) entre eux.
-*   **Acte 2 :** Valerius et Elara développent des sentiments contradictoires. Lord Malakor, conseiller du Roi, complote pour renverser Valerius. Il utilise la sœur d'Elara (qu'elle croyait morte) comme menace. Valerius, touché par l'humanité d'Elara, commence à réformer la cité. Malakor déclenche une guerre civile et s'empare du "Cœur de Cristal", le réacteur de la cité.
-*   **Acte 3 :** Malakor s'élève en divinité d'ombre. Elara et Valerius s'allient. Valerius sacrifie son immortalité pour protéger Leo et Elara. Elara utilise la puissance purifiée du Sang Noir pour détruire Malakor et stabiliser le réacteur.
-*   **Résolution :** L'Éclipse prend fin. Le Zénith s'ouvre, laissant entrer le premier soleil en 300 ans. Sang-Vail devient Lux-Vail, une démocratie partagée. Elara et Valerius partent explorer les Terres de Cendre pour trouver d'autres survivants.
+## 5. ANALYSE DE MARCHÉ & ARGUMENTS DE VENTE
+- **Tendance BookTok** : Le trope "Found Family" (Elara, Léo, Silas) et le "Slow Burn" émotionnel.
+- **World-Building Unique** : L'Hémostase (économie du sang) offre une métaphore puissante des inégalités sociales et de la crise énergétique actuelle.
+- **Dual POV** : Permet de capter à la fois l'action viscérale (Elara) et l'émerveillement technologique (Léo).
+- **Originalité** : Un mélange rare entre la dureté de la dystopie et la poésie de la renaissance naturelle.
