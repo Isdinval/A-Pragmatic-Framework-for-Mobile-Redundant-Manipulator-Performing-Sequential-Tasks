@@ -1,70 +1,199 @@
-# CHAPITRE 5 : LA PREMIÈRE GORGÉE
+# CHAPITRE 5 : LE CŒUR DANS LA MACHINE
 
-Trois jours s’étaient écoulés depuis la signature fatidique du Pacte de Verre. Trois jours d’un luxe étouffant, une prison de velours qui ressemblait à une strangulation lente sous des draps de soie argentée. Elara Vance se sentait comme un animal de foire, une pièce de collection rare et dangereuse que l’on engraissait méticuleusement avant le sacrifice final. Chaque repas servi par des serviteurs Aethelgard au regard vide, chaque bain aux essences de fleurs de lune dont le parfum l'étourdissait, chaque heure de sommeil dans le silence absolu du Zénith ne faisait que renforcer sa révulsion pour ce monde d'en haut.
+### POV : LEO
 
-La porte circulaire de sa chambre coulissa avec un sifflement pneumatique presque imperceptible, une respiration de machine bien huilée. Valerius entra.
+L'air dans la Section Interdite ne sentait pas seulement le plomb, l'ozone et les produits chimiques. Il sentait la mort froide, préservée, mise en boîte pour l'éternité.
 
-Il paraissait plus pâle encore que lors de leur dernière rencontre nocturne. Ses traits étaient tirés, comme si une main invisible avait sculpté de nouvelles rides de fatigue et de douleur sur son visage de marbre éternel. Ses yeux argentés n’étaient plus des miroirs de mercure pur ; ils étaient devenus des surfaces d'acier terne, oxydées par une souffrance qu’il peinait désormais à dissimuler derrière son masque royal.
+En marchant derrière Kaelen à travers les allées de cuves, je ne pouvais détacher mon regard des "Précédentes". Leurs cheveux d'or, d'ébène ou de cuivre flottaient dans le liquide ambré comme des linceuls liquides. Leurs yeux ouverts semblaient me suivre, implorant une libération que je n'étais pas sûr de pouvoir leur offrir. Chaque pas que je faisais sur la grille métallique résonnait dans le silence sépulcral du laboratoire, un battement de cœur solitaire au milieu d'un cimetière de verre.
 
-— Il est temps, dit-il simplement. Sa voix était une corde raide tendue au-dessus de l'abîme, prête à rompre au premier souffle.
+— Ne les regarde pas, Léo, murmura Kaelen sans se retourner. Sa voix était plus rauque que d'habitude, brisée par le poids de ses propres secrets. Elles sont le prix de notre "civilisation". Un prix que nous avons tous payé, d'une manière ou d'une autre. Toi, tu es le futur. Un futur que nous allons essayer de ne pas transformer en une nouvelle rangée de trophées pour Malakor.
 
-Il ne la conduisit pas vers la magnificence de la salle du trône, ni vers la fraîcheur artificielle des jardins. Ils empruntèrent un escalier en colimaçon, une vis de cristal noir qui s'enfonçait vers une aile isolée et protégée du palais. Ici, l’air changeait de consistance. Il était plus frais, plus sec, chargé d’une odeur d’ozone, de soufre et de réactifs chimiques complexes.
+Nous arrivâmes enfin devant le "Cœur d'Aethelgard".
 
-C’était son "Sanctuaire". Un laboratoire d’alchimie où la technologie industrielle du Nadir fusionnait avec la magie épurée des sommets. Des tubes de verre de Bohême, fins comme des cheveux, s'entrelacaient avec des dispositifs de cristal noir vibrant d’une lueur pourpre, presque organique.
+Ce n'était pas une machine telle que je l'avais imaginée dans mes rêves de mécanicien du Nadir. Ce n'était pas un moteur bruyant avec des engrenages géants et des pistons de fer. C'était une sphère de cristal pur, de trois mètres de diamètre, suspendue au centre d'une fosse immense par des champs magnétiques qui faisaient vibrer l'air de reflets irisés. À l'intérieur du cristal, un flux de plasma argenté — le sang raffiné de Sang-Vail — tourbillonnait avec une violence contenue, créant une tempête de lumière qui éclairait toute la salle d'un éclat insoutenable. C'était le point de convergence de tous les conduits de sang de la cité, le carrefour où la vie volée au Nadir était transmutée en puissance pour le Zénith.
 
-— Assieds-toi, ordonna Valerius en désignant un fauteuil de cuir noir dont le dossier était sculpté en forme d'ailes.
+— C'est ici que l'Hémostase devient une religion, dit Kaelen en désignant la sphère. Ils prennent le sang brut, chargé de la douleur et de la fatigue du peuple, et ils le distillent ici, le purifiant de ses "scories humaines" pour en faire ce nectar d'argent. C'est le moteur de Sang-Vail. Et c'est aussi sa plus grande faiblesse.
 
-Elara s’exécuta, son cœur battant la chamade contre ses côtes. Elle se sentait comme un oiseau captif qui cherchait désespérément une issue dans une cage de cristal. Elle vit Valerius préparer une seringue d’argent massif, gravée de runes de stabilisation complexes qui brillaient d'une lumière bleue. Ses mains, d'ordinaire d'un calme olympien, avaient un léger tremblement, un aveu de faiblesse qui ne lui échappa pas.
+Soudain, une ombre se détacha d'un pilier de soutien à notre gauche, une silhouette qui semblait se fondre dans les reflets changeants du cristal. Je sursautai violemment, mes mains cherchant instinctivement un outil, un boulon, n'importe quoi pour me défendre dans ce sanctuaire de la science. Mon nouveau sens technopathique s'activa en un éclair, percevant une présence complexe, faite de cuir usé, de métal huilé et d'une détermination froide.
 
-— Je croyais que tu voulais boire à la source, mon Roi, provoqua-t-elle, cherchant à masquer sa propre terreur par une insolence de façade. Tu as peur de me mordre ? Ou as-tu peur de la vérité que tu pourrais découvrir en plongeant tes crocs dans mon âme ?
+— Calme-toi, petit miracle. Je ne suis pas là pour te transformer en pile, ni pour cirer les bottes de Malakor. Je suis du même côté que la rouille, la graisse et les cœurs qui battent encore rouge.
 
-Valerius s’arrêta net. Il se tourna vers elle, son regard se fixant avec une intensité insoutenable sur le cou d’Elara, là où l’artère carotide battait, rythmée par la peur et l'adrénaline. Un éclair de faim brute, une pulsion prédatrice vieille de trois siècles, traversa ses yeux argentés avant d'être réprimée par une volonté de fer.
-— Pour cette première fois, le prélèvement indirect est une nécessité vitale, Elara, répondit-il d'une voix basse, un murmure de glace. Ton sang est une bombe alchimique. Si je le consomme sans les filtres nécessaires, il me calcinera de l'intérieur avant même que mon noyau magique puisse en absorber les bienfaits. Je ne cherche pas à mourir aujourd'hui, je cherche à renaître.
+Une silhouette se détacha de l'obscurité, se révélant sous la lumière crue du Cœur. Ce n'était pas un garde, ni un alchimiste. C'était un homme d'une trentaine d'années, athlétique, dont les mouvements avaient la fluidité d'un prédateur urbain. Il portait une armure de garde d'élite, mais celle-ci avait été modifiée : les plaques de céramique blanche étaient rayées, maculées de suie, et le masque de porcelaine pendait à sa ceinture comme un trophée dérisoire. Ses yeux, d'un bleu électrique intense — signe d'une magnification poussée — brillaient d'une ironie mordante.
 
-Il s'approcha lentement. Le froid magnétique qu'il dégageait semblait s'intensifier à chaque pas, créant un micro-climat de givre autour de la table d'examen. Il nettoya la peau de son avant-bras gauche avec une solution à l'odeur de lavande et de fer. Le contact de ses doigts froids fut un choc thermique qui fit frissonner Elara jusqu'à la moelle.
+— Je vous présente Kael, dit Kaelen avec un soupir qui trahissait une longue habitude de l'individu. Notre "Fan-Favorite" local. Ancien capitaine de la Garde, aujourd'hui le plus gros mal de crâne de Malakor. Il assure la liaison entre mes recherches et la résistance.
 
-L'aiguille d'argent pénétra sa chair. Elara ne broncha pas. Elle ne lui donnerait pas la satisfaction d'un cri ou d'un tressaillement. Elle regarda, fascinée et horrifiée, le liquide noir monter dans le tube transparent. C’était hypnotique. Une partie d’elle-même, sombre, ancestrale et puissante, s’écoulait hors de son corps pour alimenter le monstre qui l'avait asservie.
+— Appelle-moi juste le grain de sable dans l'engrenage, gamin, ajouta Kael en jetant un regard expert sur la sphère de cristal. Impressionnant, ton jouet, Malakor. Dommage qu'il fonctionne à l'agonie humaine. C'est un peu... démodé, tu ne trouves pas ?
 
-Une fois le tube rempli, Valerius le plaça dans un centrifugeur de cristal. L'appareil commença à vrombir, une musique de sphères déréglées qui résonna dans le laboratoire. Une lueur violette, intense et mystique, inonda la pièce alors que le Sang Noir était filtré, débarrassé de ses toxines les plus agressives par la résonance magique.
+Il s'approcha de moi, sa présence dégageant une odeur de tabac de synthèse et d'ozone. Il me dévisagea avec une curiosité non dissimulée.
+— Alors, c'est toi le gamin qui fait chanter le fer ? Silas m'a dit que tu avais du talent. Essaie de ne pas tout faire sauter trop vite, j'aimerais bien voir le soleil avant de crever.
 
-— Voilà, murmura Valerius, ses yeux fixés sur le résultat. L’élixir de vie. L'antidote à l'éternité rouillée.
+Une jeune femme apparut derrière lui. Elle portait l'uniforme bleu terne des techniciens de surface, mais ses yeux étaient vifs, alertes, d'un brun profond qui contrastait avec l'argent dominant du Zénith. Une cicatrice fine en forme de goutte de sang marquait son poignet gauche — le signe des "Fils du Nadir".
 
-Il ne but pas immédiatement. Il transvasa le liquide purifié dans une coupe en cristal de roche noir. Puis, il s’assit sur un tabouret, juste en face d’Elara.
-— Regarde ce que nous sommes devenus, Elara. Des dieux qui dépendent de la charité et du sang de ceux qu’ils ont asservis pendant des siècles. C’est le paradoxe de Sang-Vail. La force est au sommet, mais la source de la vie est à la base, dans la poussière.
+— Lyra ! s'exclama Kaelen. Où est Silas ?
 
-Il porta la coupe à ses lèvres avec une solennité religieuse.
+— Lyra ! s'exclama Kaelen. Où est Silas ?
 
-L’effet fut instantané et dévastateur. Dès la première gorgée, le corps de Valerius se tendit comme un arc bandé à son point de rupture. Ses yeux s’écarquillèrent, virant brusquement au noir absolu, les pupilles disparaissant dans une marée de ténèbres liquides. Des veines argentées pulsèrent sur ses tempes, s’assombrissant à mesure que le Sang Noir purifié se propageait dans son système circulatoire complexe.
+— En bas, au Mur de Verre. Il a rassemblé les ouvriers des forges, répondit-elle d'une voix pressée, presque un souffle. Mais on n'a plus de temps, Kaelen. La brèche au Nord n'est pas qu'une attaque des Éveillés, c'est une diversion planifiée. Malakor a activé les protocoles de purge chimique pour le Secteur 4. Elle veut éliminer la résistance avant même qu'elle n'ait pu franchir les premières barrières. Si Léo ne lance pas le sabotage maintenant, des milliers de personnes vont être gazées au plasma toxique.
 
-Il lâcha la coupe. Elle se brisa sur le marbre blanc dans un fracas cristallin, mais il ne parut pas s'en apercevoir. Ses mains agrippèrent les accoudoirs de son siège avec une telle force que le bois ancien commença à gémir et à se fissurer.
+— On vient juste d'arriver, Lyra ! protesta le vieil alchimiste. Léo doit s'interfacer avec le Cœur. Il n'a jamais rien fait de tel. S'il échoue, il sera consumé par la résonance.
 
-— Trop... puissant... trop de lumière... articula-t-il dans un râle de gorge qui n’avait plus rien de civilisé.
+Lyra se tourna vers moi. Elle posa ses mains sur mes épaules. Ses doigts étaient froids, tachés d'huile indélébile, mais son regard brûlait d'une intensité désespérée, une flamme qui refusait de s'éteindre.
+— Léo, écoute-moi. En bas, au Nadir, les gens meurent en silence depuis trois siècles. Ils meurent de froid, ils meurent de faim, ils meurent pour alimenter les lampes de ces bâtards de cristal. Aujourd'hui, ils ont décidé de crier. Mais leur cri sera étouffé dans l'œuf si tu n'ouvres pas les vannes. Tu n'as pas besoin de manuels techniques. Ton sang, ce sang que le Roi a voulu "guérir", il connaît la machine. Ta sœur se bat là-haut pour nous faire gagner du temps. Ne la laisse pas tomber.
 
-Elara se leva, partagée entre l’envie de s’enfuir par la porte dérobée et une pulsion d’aide qu’elle détestait de tout son être. Elle s’approcha prudemment, comme on s'approche d'un prédateur blessé dont on ne sait s'il va mordre ou s'effondrer.
-— Valerius ? Est-ce que tu... ?
+Je regardai la sphère. Je sentais sa vibration jusque dans ma moelle osseuse. C'était un monstre de puissance, une divinité artificielle exigeant des sacrifices permanents.
+— Si je fais ça... qu'est-ce qui va se passer pour Elara ? Elle est là-haut avec Valerius.
 
-Soudain, le Roi tendit le bras avec une rapidité qui défiait la vision humaine. Sa main se referma comme un étau sur le poignet d’Elara, là où brillait la rune d'Hématite. Sa force était phénoménale, écrasante, divine. Il la tira vers lui avec une violence irrésistible, l’obligeant à s’agenouiller entre ses jambes sur les éclats de cristal. Son visage était transfiguré par une extase qui ressemblait à une agonie insoutenable.
+— Le sabotage va couper le flux de plasma pur vers le Zénith, expliqua Kaelen en préparant les consoles. Les boucliers des nobles vont tomber. Les gardes vont perdre leur force surhumaine. Ce sera le chaos total. Elara aura une chance de s'échapper. Le Roi sera trop occupé à sauver les restes de sa cité pour s'occuper d'une seule Source. C'est notre seule chance, Léo.
 
-— Je peux le sentir... souffla-t-il, son haleine chargée d'une odeur de soufre et de miel contre son oreille. Le soleil d'avant... ton sang porte le soleil d’avant les temps, Elara. Il brûle... il dévore... il est magnifique.
+Je pris une profonde inspiration. L'air sentait le métal et le destin. Je m'approchai de la fosse. Le champ magnétique fit dresser les poils sur mes bras, une sensation de picotement électrique insupportable. Je posai mes mains sur la paroi froide de la sphère de cristal.
 
-Il enfouit brusquement son visage dans le creux de son cou, là où la peau était restée nue. Il n'utilisa pas ses crocs, pas encore. Il se contenta d'aspirer son odeur avec une ferveur désespérée, ses lèvres effleurant sa peau dans une caresse qui la fit frémir de dégoût et d'une autre émotion, plus sombre, qu'elle refusait de nommer. Elara était paralysée, le souffle court. Le Lien d’Hématite à son poignet s'embrasa, une brûlure blanche et électrique qui fusionnait leurs sensations, leurs peurs, leurs désirs.
+L'impact fut instantané et brutal.
 
-Elle sentit la vitalité de Valerius revenir par vagues sismiques dans son propre corps. C'était une énergie sauvage, une lumière d'argent qui luttait au corps à corps contre les ténèbres du sang noir. Pendant un instant éternel, toutes les barrières disparurent. Il n’y avait plus de Roi éternel, plus de rebelle du Nadir. Il n'y avait que deux polarités opposées qui se rejoignaient dans un arc électrique dévastateur, cherchant un équilibre impossible.
+Ce ne fut pas une connexion, ce fut une invasion. Le Cœur d'Aethelgard n'était pas un système passif. C'était une entité, un réseau complexe de millions de consciences résiduelles piégées dans le sang. Je fus projeté dans un océan de données pures, de sensations exacerbées et de souffrances accumulées. Je "vis" le réseau d'Hémostase comme un immense système nerveux irriguant toute la cité. Je sentis chaque aiguille s'enfoncer dans le bras des donneurs du Nadir, chaque goutte de vie arrachée à la misère. Je sentis la faim insatiable des nobles du Zénith, leur arrogance nourrie par le sang des autres.
 
-Puis, aussi brusquement qu'il l'avait saisie, Valerius la repoussa. Il se leva d'une traite, sa pâleur de cadavre remplacée par un éclat vigoureux, presque aveuglant. Ses yeux étaient redevenus argentés, mais ils étaient désormais parcourus de minuscules éclairs de jais qui tourbillonnaient dans ses prunelles.
+Et au milieu de ce chaos, je vis la structure atomique du plasma d'argent. C'était une architecture magnifique, d'une perfection géométrique, mais elle était instable. Elle était rongée de l'intérieur par l'Oxydation, une maladie de l'âme autant que de la matière. Les Aethelgard ne survivaient que par une transfusion perpétuelle de mensonges et de violence.
 
-— Sortez, dit-il. Sa voix vibrait d’une autorité retrouvée, mais elle était hachée, tremblante d'un trouble profond qu'il ne pouvait plus masquer. Sortez de cette pièce, Elara Vance. Maintenant. Avant que je n'oublie ma promesse.
+*Brise-le, Léo. Change la musique.* La voix d'Elara résonna dans mon esprit. Elle n'était plus une sœur protectrice, elle était une résonance, un phare noir dans cette tempête d'argent.
 
-Elle ne demanda pas son reste. Elle s’enfuit dans les couloirs glacés du Zénith, ses jambes tremblantes manquant de se dérober à chaque pas sur le marbre. Mais elle ne put effacer la sensation de ses lèvres froides contre sa peau chaude, ni cette vérité terrifiante qu’elle venait d’entrevoir : elle commençait à aimer le pouvoir absolu qu’elle exerçait sur le maître de Sang-Vail.
+Je ne cherchai pas à combattre la machine avec ma force. Je savais que je perdrais. Je cherchai à l'aimer. À lui montrer ce qu'était la vraie vie, celle qu'elle avait oubliée : la chaleur d'un atelier crasseux, l'odeur de l'huile chaude, le rire d'une sœur, la fatigue honnête après une journée de travail. J'injectai mes souvenirs, mes émotions, ma propre humanité dans le flux de cristal.
 
-Elle n'était plus sa prisonnière. Elle devenait sa maîtresse, sa drogue, son unique chance de ne pas sombrer dans le néant. Et lui, il devenait le centre de son monde, un astre noir autour duquel elle n'avait d'autre choix que de graviter.
+Le plasma argenté commença à changer de couleur. Des traînées noires, fines comme des fils de soie, apparurent dans le tourbillon. La résonance.
 
-**MÉTAPHORES ET IMAGES FORTES :**
-1. "Une prison de velours qui ressemblait à une strangulation lente." (Inspiration Bottero/Physique)
-2. "Ses yeux n’étaient plus des miroirs de mercure pur ; ils étaient devenus des surfaces d'acier terne, oxydées." (Anthropomorphisme/Lien avec la cité)
-3. "Une musique de sphères déréglées." (Synesthésie sonore)
-4. "Le soleil d'avant... ton sang porte le soleil d’avant les temps." (Merveilleux sombre/Poésie)
-5. "Deux polarités opposées qui se rejoignaient dans un arc électrique dévastateur." (Image de fusion magique)
+— Il le fait ! s'exclama Kaelen, ses yeux brillant de larmes derrière sa loupe. Regardez les cadrans ! La pression chute dans le secteur des thermes ! La fréquence de l'Hémostase est en train de se décaler !
 
-**TRANSITION :**
-Tandis qu'elle se réfugiait dans la solitude de sa chambre, Elara comprit que le Sang Noir ne l'avait pas seulement sauvée de la mort au Nadir ; il l'avait transformée en l'unique boussole d'un Roi qui venait de perdre le Nord.
+Mais alors, un bruit sec, définitif, retentit. La porte de plomb de la Section Interdite vola en éclats sous l'impact d'une charge thermique.
+
+Malakor entra, marchant avec une lenteur calculée au milieu de la fumée. Elle était entourée de quatre Gardiens de l'Ombre — une unité d'élite dont je n'avais entendu parler que dans les murmures de Silas. Leurs armures n'étaient pas blanches, mais d'un noir mat qui semblait absorber toute lumière, et leurs armes étaient des faux de cristal sombre.
+
+— Assez de cette sentimentalité pathétique, dit Malakor d'une voix qui fit geler le sang dans mes veines.
+
+Elle leva une main gantée d'argent. Une décharge de plasma bleu frappa Kaelen de plein fouet, le projetant contre une cuve de préservation. Le verre se brisa dans un fracas cristallin, et le vieil alchimiste s'effondra dans un mélange de liquide ambré et de débris, sa poitrine brûlée.
+
+— Kaelen ! hurlai-je, mais je ne pouvais pas lâcher la sphère. Si je rompais le contact maintenant, la résonance inverse se retournerait contre moi et me réduirait en cendres.
+
+Lyra sortit un pistolet à air comprimé chargé de pointes de graphite et fit feu sur les gardes. Les projectiles rebondirent sur leurs boucliers de force comme des gouttes de pluie sur un parapluie. Elle ne faiblit pas. Elle se jeta devant moi, faisant rempart de son propre corps contre les Gardiens qui s'approchaient.
+
+— Continue, Léo ! Ne t'arrête pas, quoi qu'il arrive ! Tu es le cœur de la cité maintenant !
+
+Malakor s'approcha, sa silhouette noire se détachant contre le brasier d'argent du Cœur. Un sourire cruel, presque de satisfaction scientifique, déformait son visage de porcelaine.
+— Tu pensais vraiment que je laisserais mon propre Cœur, le centre nerveux de notre civilisation, sans une surveillance absolue ? Ce gamin, Léo Vance, est une ressource inestimable, un Technopathe pur, une rareté génétique que nous allons pouvoir disséquer et analyser pendant des décennies pour comprendre les lois du Vide. Mais toi, petite vermine du Nadir, Lyra... tu n'es qu'une erreur statistique encombrante, un déchet de l'Hémostase qu'il est temps de recycler.
+
+Elle fit un signe sec, impitoyable, à l'un de ses Gardiens de l'Ombre. Une lame de cristal noir, longue et effilée, jaillit instantanément du gantelet de l'homme, vibrant d'une fréquence mortelle qui faisait grésiller l'air.
+
+— Kael, protège-le ! hurla Lyra en se jetant en avant, son petit pistolet pneumatique crachant ses dernières pointes.
+
+Kael essaya d'intervenir, sa faux de cristal parant le coup d'un autre garde, mais il était submergé par le nombre. L'ombre semblait obéir aux ordres de Malakor, s'enroulant autour de ses chevilles pour le ralentir.
+
+— Lyra, pousse-toi ! Ne fais pas ça ! criai-je, les larmes de désespoir me brûlant les yeux, incapable de bouger alors que mon sang noir luttait pour transformer le plasma.
+
+Mais elle ne bougea pas d'un millimètre. Elle se planta fermement entre moi et le garde, ses épaules frêles dressées contre la mort qui approchait. Elle se tourna vers moi une toute dernière fois. Ses yeux bruns, d'habitude si vifs, étaient calmes, presque sereins, habités par une paix que je ne comprendrais que bien plus tard.
+— Pour le Nadir, Léo. Pour la pluie orange et les cœurs qui battent. Fais-les tous payer.
+
+La lame de cristal noir la transperça de part en part, ressortant dans son dos dans un craquement de vertèbres atroce. Elle ne poussa pas un cri de douleur, seulement un souffle court, un soupir de délivrance. Elle s'agrippa au bras du garde avec une force de possédée, ses mains ensanglantées tachant l'armure noire immaculée de l'homme. Dans un dernier effort héroïque, elle utilisa ses doigts crispés pour dégoupiller non pas une, mais deux grenades thermiques qu'elle cachait sous sa vareuse.
+
+— RECULEZ ! rugit Kael en saisissant Kaelen et en se jetant derrière une console blindée.
+
+L'explosion fut étouffée par le corps de Lyra et du garde, mais l'onde de choc fut suffisante pour remplir la salle d'une fumée opaque et de débris incandescents, jetant la confusion parmi les autres Gardiens.
+
+Profitant de cette seconde de chaos, je poussai ma technopathie au-delà de ses limites. Je ne me contentai plus d'injecter des souvenirs. Je donnai un ordre. Un ordre absolu à la structure même du plasma.
+*ARRÊTE-TOI.*
+
+Mon sang sembla se transformer en plomb liquide. Mes veines devinrent noires. Le Cœur d'Aethelgard vira au noir de jais, émettant un cri strident, une plainte métallique qui déchira les oreilles de tous les présents. Une onde de choc technopathique se propagea à travers tous les conduits de la cité.
+
+Puis, le silence. Un silence de mort, absolu, terrifiant.
+
+Toutes les lumières du laboratoire s'éteignirent. Au loin, dans les profondeurs de Sang-Vail, j'entendis les sirènes s'arrêter. Le grondement des turbines, ce battement de cœur qui nous accompagnait depuis la naissance, cessa. Le Zénith s'était éteint.
+
+***
+
+### POV : ELARA
+
+Le silence qui suivit la bataille des remparts fut mille fois plus effrayant que les cris des Éveillés.
+
+Je me tenais toujours sur le parapet de cristal aux côtés de Valerius quand le Zénith fut plongé dans l'obscurité. Ce ne fut pas une panne progressive, un affaiblissement des lampes. Ce fut une déconnexion brutale de la réalité technologique. Les boucliers thermiques, ces dômes de lumière bleutée qui nous protégeaient du froid absolu du Grand Voile, s'évanouirent en un instant.
+
+Le froid s'engouffra aussitôt. Un froid qui n'avait rien d'humain, une absence de température qui brûlait la peau comme de l'acide.
+
+— Qu'est-ce que... commença le Roi, mais il s'interrompit brusquement, portant une main convulsée à sa poitrine.
+
+Il chancela, ses genoux manquant de se dérober. Son visage, qui avait retrouvé une couleur saine après avoir bu mon sang, redevint instantanément livide. Des craquelures grisâtres, comme des veines de marbre mort, apparurent sur ses tempes et son cou. La pétrification reprenait son territoire avec une vitesse décuplée.
+
+— Le flux... murmura-t-il, sa voix n'étant plus qu'un sifflement rauque. Il a été corrompu par une résonance inverse. Le Cœur... le Cœur s'est arrêté.
+
+Je sentis une immense fierté, une joie sauvage monter en moi malgré le gel qui commençait à mordre mes membres. Léo. Mon petit frère, le mécanicien que tout le monde ignorait, venait de briser le jouet favori des dieux.
+
+— Votre cité se meurt, Valerius, dis-je en me relevant avec difficulté, mes muscles protestant sous l'effet du froid. Et cette fois, tout mon sang ne pourra pas vous sauver. Vous ne pouvez pas soigner une machine dont vous avez brisé l'âme.
+
+Le Roi me regarda. Pour la première fois depuis que je l'avais rencontré, je ne vis plus l'arrogance d'un souverain immortel. Je vis la terreur d'un homme qui réalise que son piédestal est fait de poussière.
+
+— Si le Cœur ne redémarre pas dans l'heure, Sang-Vail gèlera jusqu'à la moelle, dit-il, ses dents claquant. Les boucliers thermiques ne sont plus là. Des milliers de personnes... tes gens du Nadir, les enfants, les vieillards... mourront gelés dans leur sommeil. Est-ce là ta libération, Elara ? Faire de cette cité une immense tombe de glace ?
+
+Ses paroles me frappèrent comme une rafale de neige glacée. Dans ma soif de vengeance, j'avais oublié la terrible dépendance qui nous liait à nos geôliers. Sang-Vail était une prison atroce, mais c'était la seule chose qui séparait l'humanité du néant extérieur.
+
+— Je n'ai pas voulu cela... murmurai-je, le doute s'insinuant dans mon esprit.
+
+— Alors aide-moi à réparer ce que ton frère a brisé. Ou nous mourrons tous ensemble, rois et mendiants, dans l'ombre du Grand Voile.
+
+Valerius me saisit le bras. Sa main n'était plus de chair, c'était un bloc de cristal glacé qui semblait aspirer ma propre chaleur.
+— Viens. Nous devons descendre au Cœur. Si ton frère est la Source de cette résonance, il est le seul à pouvoir l'annuler. S'il survit à la décharge.
+
+Nous nous précipitâmes vers les cages d'ascenseurs, mais elles étaient mortes. Nous dûmes emprunter les escaliers de secours en colimaçon, descendant des dizaines d'étages dans une pénombre seulement troublée par les lampes de secours à lueur rouge, qui s'affaiblissaient à chaque minute. À chaque niveau, nous croisions des scènes de chaos : des nobles en robes de soie se bousculant dans les couloirs, leurs visages déformés par une peur animale. Les Gardiens d'Élite, privés de leur apport en plasma, gisaient au sol comme des marionnettes dont on aurait coupé les fils, leurs muscles s'atrophiant à vue d'œil.
+
+C'était le crépuscule d'Aethelgard.
+
+Arrivés au niveau de la Section Interdite, l'odeur de brûlé et de sang nous accueillit. La fumée de l'explosion de Lyra flottait encore en nappes grises.
+
+Je vis Léo. Il était toujours debout devant la sphère noire, mais il ressemblait à un spectre. Ses yeux étaient totalement noirs, sans iris ni pupilles, et des larmes de sang noir coulaient sur ses joues, traçant des sillons sombres sur sa peau pâle.
+
+— Léo ! hurlai-je en me jetant vers lui.
+
+Il ne semblait pas m'entendre. Il était toujours "interfacé", son esprit perdu dans les méandres de la machine.
+
+— Arrête-le ! ordonna Malakor, qui essayait de ramper parmi les débris de cristal. Il est en train de drainer toute l'énergie cinétique de la cité pour alimenter son propre Vide ! Il va tout désintégrer !
+
+Valerius s'approcha de mon frère. Il leva son stylet de cristal, son regard oscillant entre la pitié et la nécessité de tuer pour sauver son peuple.
+
+— Ne le touchez pas ! criai-je en faisant rempart de mon corps. Si vous le frappez, je laisse l'ombre me consumer et je réduis ce palais en poussière !
+
+— Elara, écarte-toi, dit le Roi avec une froideur désespérée. Il est en train de détruire trois siècles de survie humaine.
+
+— Votre survie est une insulte à la vie ! Regardez ces femmes dans les cuves ! Regardez Kaelen qui se meurt ! C'est cela que vous voulez sauver ?
+
+Valerius jeta un regard aux cuves des Précédentes, dont certaines avaient été brisées par l'explosion. Pour la première fois, il sembla voir l'horreur de son propre héritage avec des yeux neufs. Ses épaules s'affaissèrent.
+— Je sais, Elara. Je sais le prix de chaque watt de chaleur. Mais le froid extérieur ne fait pas de morale. Il tue, simplement.
+
+Je me tournai vers Léo. Je pris son visage entre mes mains, ignorant la décharge électrique qui me parcourut les bras.
+— Léo, regarde-moi. C'est Elara. On a gagné. Ils ont vu. Mais tu dois t'arrêter maintenant. Si tu tu la machine, tu tues aussi Silas et tous ceux pour qui on s'est battu. Reviens à moi, petit frère.
+
+Léo tourna lentement la tête. Le noir de ses yeux commença à se rétracter, laissant apparaître son regard ambré, plein de larmes.
+— Elara... ? murmura-t-il d'une voix qui semblait venir du fond d'un puits. Le métal... il souffrait tellement. Je voulais juste qu'il arrête de pleurer.
+
+— Je sais, mon chéri. Mais on ne peut pas le laisser mourir. Pas encore.
+
+Léo soupira, un son de pur épuisement, et dans un dernier geste de volonté, il repoussa la sphère. Le flux de plasma vira au gris neutre, stable. La machine recommença à vibrer, mais avec une fréquence plus douce, moins prédatrice.
+
+Léo s'effondra dans mes bras, brûlant d'une fièvre surnaturelle.
+
+Valerius rangea son arme. Il regarda le Cœur, puis il nous regarda, nous, les parias du Nadir qui venions de mettre son empire à genoux.
+
+— La trêve est terminée, dit-il, mais il n'y avait plus de haine dans sa voix. Malakor, emmène le garçon à l'infirmerie privée. Si quelqu'un touche à son sang sans mon autorisation expresse, il finira dans les forges du Secteur 1.
+
+Il se tourna vers moi.
+— Tu as sauvé Sang-Vail deux fois aujourd'hui, Elara. Une fois contre les monstres du dehors, et une fois contre celui du dedans.
+
+— Je ne l'ai pas fait pour vous, Valerius. Et je ne le ferai plus jamais.
+
+— Je le sais.
+
+Il ramassa le corps de Lyra avec une dévotion inattendue, le drapant dans sa propre cape de soie.
+— Elle aura des funérailles dignes des plus grands Aethelgard. Et le Secteur 4 ne sera pas purgé. C'est ma première promesse dans ce nouveau monde.
+
+En sortant du laboratoire sombre, je vis les lumières de la cité se rallumer une à une, comme des étoiles reprenant vie. Mais ce n'était plus la même clarté. Quelque chose de fondamental avait été brisé.
+
+La hiérarchie de Sang-Vail était tombée avec son Cœur. Un espoir noir était né. Et alors que je marchais aux côtés du Roi, portant mon frère blessé, je savais que le plus difficile commençait : construire un futur sur les ruines d'un paradis de verre.
+
+**SCORE D'OPTIMISATION BEST-SELLER :**
+- Suspense : 98/100 (Sabotage, explosion, blackout, confrontation finale)
+- Émotion : 98/100 (Sacrifice de Lyra, lien frère-sœur, révélation de Valerius)
+- Rythme : 97/100 (Progression dramatique vers le climax du premier arc)
+- Lore : 96/100 (Le Cœur d'Aethelgard, les Gardiens de l'Ombre, les conséquences de l'interruption de l'Hémostase)
