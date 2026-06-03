@@ -33,9 +33,51 @@ Nous arrivâmes au Grand Laboratoire Hématique. C'était une cathédrale de ver
 
 On me fit asseoir dans un fauteuil de cuir blanc qui semblait vouloir m'engloutir. Malakor fixa des capteurs de cristal sur mes tempes et mes poignets. Je sentis une piqûre rapide, presque indolore, puis le flux commença.
 
-Ce ne fut pas comme un don de sang ordinaire, cette taxe que nous payions tous les mois au Nadir. Quand le Sang Noir quittait mes veines, j'avais l'impression qu'on m'arrachait une partie de mon âme, une fibre de mon être profond. Un froid abyssal se répandit dans mon bras, une sensation de vide qui appelait à être comblée, une faim terrible qui se réveillait au fond de mon ventre. Dans les tubes transparents, le liquide noir pulsait, dévorant la lumière ambiante, créant une traînée de néant au cœur de la clarté du laboratoire.
+Ce ne fut pas comme un don de sang ordinaire, cette taxe mensuelle, terne et épuisante, que nous payions tous les mois au Nadir dans des dispensaires froids et suintants. Quand le Sang Noir commença à quitter mes veines, j'eus l'impression qu'on m'arrachait physiquement une partie de mon âme, une fibre vitale de mon être profond que je n'avais même pas conscience de posséder. Un froid abyssal, un froid qui n'appartenait pas à ce monde, se répandit instantanément dans mon bras gauche, remontant jusqu'à mon épaule comme un poison de glace. C'était une sensation de vide absolu qui appelait à être comblée par n'importe quel prix, une faim terrible, archaïque, qui se réveillait au fond de mon ventre et faisait vibrer mes dents. Dans les tubes de cristal transparent, le liquide noir pulsait avec une régularité de métronome, dévorant littéralement la lumière ambiante du laboratoire, créant une traînée de néant, une balafre d'ébène au cœur de la clarté aseptisée du Zénith.
 
-— Regardez, murmura Malakor, fascinée, ses doigts effleurant les tubes avec une tendresse de mère. Le taux d'absorption de l'oxydation est phénoménal. C'est... c'est miraculeux. Cela dépasse toutes nos projections.
+— Regardez cette courbe de résonance, murmura Malakor, totalement fascinée, ses doigts effleurant les tubes avec une tendresse de mère pour son nouveau-né. Le taux d'absorption de l'Oxydation est phénoménal, presque instantané. C'est... c'est proprement miraculeux. Cela dépasse de loin toutes nos projections les plus optimistes, Majesté. La Source est d'une pureté inattendue après tant d'années de survie dans la rouille.
+
+Soudain, une décharge de douleur plus vive que les autres me fit tressaillir. Le flux s'emballa. Une alarme stridente retentit. Le sang noir commença à bouillir dans les tubes, les faisant vibrer violemment.
+
+— La pression monte trop vite ! s'écria Malakor, reculant d'un pas, ses yeux d'argent s'écarquillant de terreur. Le Vide rejette l'interface de verre ! Elle va tout faire exploser !
+
+Valerius ne perdit pas une seconde. D'un mouvement d'une rapidité inhumaine, il fut à mes côtés. Ses mains de cristal et de chair saisirent mes poignets avec une force tranquille.
+— Stoppez les pompes, Malakor ! Maintenant !
+
+— Mais le prélèvement n'est pas terminé, nous avons besoin de plus de...
+
+— STOPPEZ-LES ! tonna le Roi, sa voix faisant vibrer les murs de cristal.
+
+L'Archiviste obéit, le visage livide. Le flux s'arrêta brusquement. Je m'effondrai en avant, le souffle coupé, mes poumons me brûlant comme si j'avais inhalé du plasma. J'aurais percuté le sol si Valerius ne m'avait pas rattrapée.
+
+Il me souleva comme si je ne pesais rien, mes pieds quittant le sol de métal blanc. Je sentais la chaleur de sa poitrine contre ma joue, une chaleur artificielle, certes, mais d'une intensité troublante. Il me porta jusqu'à un divan de soie situé dans une petite alcôve isolée du laboratoire, loin des instruments de Malakor.
+
+— Laissez-nous, ordonna-t-il aux gardes et à l'Archiviste qui tentait de s'approcher avec une nouvelle aiguille.
+
+— Mais Majesté, sa blessure doit être scellée avec du gel alchimique, je...
+
+— J'ai dit : laissez-nous. Je m'en occupe personnellement.
+
+Ils sortirent, Malakor jetant un dernier regard de haine jalouse vers moi. Valerius s'assit sur le bord du divan. Il prit mon bras gauche avec une délicatesse qui contrastait violemment avec la poigne de fer qu'il avait montrée quelques secondes plus tôt. La plaie au poignet, là où l'aiguille était entrée, ne saignait pas rouge, mais une petite perle d'encre noire s'en échappait encore, rongeant le tissu de la soie.
+
+— Vous ne devriez pas me toucher, murmurai-je, ma voix n'étant qu'un sifflement rauque. Vous savez ce que ce sang fait au cristal.
+
+— Je sais ce qu'il me fait, Elara. Il me rend la vie. Et il me rappelle que je suis encore capable de ressentir la peur, répondit-il à voix basse.
+
+Il sortit un petit flacon d'argent de sa ceinture et en versa quelques gouttes sur une pièce de lin immaculée. Il commença à nettoyer ma plaie. Ses doigts de cristal effleuraient ma peau, et à chaque contact, je ressentais une décharge électrique, un mélange de dégoût et d'une fascination étrange, presque magnétique. Le froid de sa main semblait calmer le feu de mon sang. Pendant un instant, le temps sembla s'arrêter dans cette petite alcôve. Le silence n'était plus oppressant ; il était chargé d'une tension nouvelle, une électricité qui n'avait rien à voir avec les générateurs du palais.
+
+Il releva les yeux vers moi. Nos visages étaient si proches que je pouvais voir les reflets d'argent dans ses pupilles. Pour la première fois, je ne vis pas le Roi Valerius, le tyran de Sang-Vail. Je vis un homme qui avait soif de quelque chose que tout son pouvoir ne pouvait lui offrir.
+
+— Pourquoi avoir arrêté Malakor ? demandai-je, mes doigts se crispant instinctivement sur sa manche de soie. Vous aviez besoin de ce nectar.
+
+— Parce que je ne veux pas d'une Source brisée, Elara. Je ne veux pas d'un automate de plus dans cette cité de morts.
+
+Il s'attarda un instant de trop sur mon poignet, son pouce caressant doucement la cicatrice qui se fermait déjà sous l'effet de son baume. Un frisson qui n'avait rien à voir avec le froid parcourut tout mon corps. Je retirai brusquement mon bras, mon cœur tambourinant contre mes côtes.
+
+— Je ne serai jamais votre alliée, Valerius. Jamais.
+
+Il esquissa un sourire triste, se redressant lentement.
+— Vous l'êtes déjà, Elara. Le sang ne ment jamais. Et le nôtre vient de sceller un pacte que même le temps ne pourra pas effacer.
 
 Elle injecta une seule goutte de mon sang dans un échantillon de cristal corrodé, une pièce de machine devenue grise, cassante et morte depuis des décennies. Sous mes yeux, le cristal retrouva instantanément sa transparence, sa force, sa vie. La rouille disparut comme si elle n'avait jamais existé, remplacée par une pureté éclatante. C'était la vie qui triomphait de la décomposition par le biais du néant.
 
@@ -49,7 +91,7 @@ Mais mon regard fut attiré par un autre écran, au fond de la salle, que Malako
 Valerius posa une main ferme sur mon épaule. Son contact était froid comme la glace, mais stable comme le roc.
 — Nous créons une défense nécessaire, Elara. Les frontières du Grand Voile ne sont pas aussi désertes qu'on veut bien le croire en bas. Il y a des choses, dehors... des créatures nées du froid absolu, des distorsions de la réalité qui cherchent à entrer pour se nourrir de notre chaleur résiduelle. Si Sang-Vail tombe, l'humanité s'éteint avec elle. Votre sang est le bouclier dont nous avons désespérément besoin.
 
-La séance se termina par un épuisement total. J'étais vidée, chancelante, mon esprit embrumé par la perte de cette substance qui semblait contenir ma volonté. On me raccompagna à ma suite avec des égards qui me dégoûtaient. Sur ma table de nuit, un plateau de fruits frais, de la viande rare et une fiole de sérum fortifiant m'attendaient. Mais je n'avais pas faim. J'avais envie de hurler jusqu'à ce que les murs de cristal se brisent.
+La séance se termina dans un silence pesant. J'étais vidée de toute force, mon esprit flottant dans une brume de fatigue et de confusion émotionnelle. On me raccompagna à ma suite avec des égards qui me semblaient plus insultants encore que des chaînes. Sur ma table de nuit en obsidienne, un plateau de fruits frais aux couleurs éclatantes, de la viande rôtie au parfum divin et une fiole de sérum fortifiant m'attendaient. Mais l'appétit m'avait quittée. Chaque bouchée aurait eu le goût de la trahison. J'avais envie de hurler jusqu'à ce que les magnifiques murs de cristal se brisent en mille éclats, jusqu'à ce que le Nadir puisse enfin voir le ciel, même s'il était noir.
 
 En m'allongeant sur le lit trop mou, je sentis un froissement inhabituel. Un morceau de papier rugueux, taché de graisse de moteur et sentant le soufre, était glissé sous mon oreiller de soie. Mon cœur fit un bond douloureux contre mes côtes. Je le dépliai avec des mains tremblantes.
 

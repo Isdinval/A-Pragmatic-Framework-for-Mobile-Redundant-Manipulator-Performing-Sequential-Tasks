@@ -14,11 +14,22 @@ Ce n'était pas une machine telle que je l'avais imaginée dans mes rêves de m�
 
 — C'est ici que l'Hémostase devient une religion, dit Kaelen en désignant la sphère. Ils prennent le sang brut, chargé de la douleur et de la fatigue du peuple, et ils le distillent ici, le purifiant de ses "scories humaines" pour en faire ce nectar d'argent. C'est le moteur de Sang-Vail. Et c'est aussi sa plus grande faiblesse.
 
-Soudain, une ombre se détacha d'un pilier de soutien à notre gauche. Je sursautai, mes mains cherchant instinctivement un outil, un boulon, n'importe quoi pour me défendre. Mon nouveau sens technopathique s'activa, percevant une présence faite de cuir, de métal et de détermination.
+Soudain, une ombre se détacha d'un pilier de soutien à notre gauche, une silhouette qui semblait se fondre dans les reflets changeants du cristal. Je sursautai violemment, mes mains cherchant instinctivement un outil, un boulon, n'importe quoi pour me défendre dans ce sanctuaire de la science. Mon nouveau sens technopathique s'activa en un éclair, percevant une présence complexe, faite de cuir usé, de métal huilé et d'une détermination froide.
 
-— Calme-toi, petit. Je suis du même côté que la rouille et la graisse.
+— Calme-toi, petit miracle. Je ne suis pas là pour te transformer en pile, ni pour cirer les bottes de Malakor. Je suis du même côté que la rouille, la graisse et les cœurs qui battent encore rouge.
 
-Une jeune femme apparut dans la lumière crue. Elle portait l'uniforme bleu terne des techniciens de surface, mais ses yeux étaient vifs, alertes, d'un brun profond qui contrastait avec l'argent dominant du Zénith. Une cicatrice fine en forme de goutte de sang marquait son poignet gauche — le signe des "Fils du Nadir", la résistance clandestine.
+Une silhouette se détacha de l'obscurité, se révélant sous la lumière crue du Cœur. Ce n'était pas un garde, ni un alchimiste. C'était un homme d'une trentaine d'années, athlétique, dont les mouvements avaient la fluidité d'un prédateur urbain. Il portait une armure de garde d'élite, mais celle-ci avait été modifiée : les plaques de céramique blanche étaient rayées, maculées de suie, et le masque de porcelaine pendait à sa ceinture comme un trophée dérisoire. Ses yeux, d'un bleu électrique intense — signe d'une magnification poussée — brillaient d'une ironie mordante.
+
+— Je vous présente Kael, dit Kaelen avec un soupir qui trahissait une longue habitude de l'individu. Notre "Fan-Favorite" local. Ancien capitaine de la Garde, aujourd'hui le plus gros mal de crâne de Malakor. Il assure la liaison entre mes recherches et la résistance.
+
+— Appelle-moi juste le grain de sable dans l'engrenage, gamin, ajouta Kael en jetant un regard expert sur la sphère de cristal. Impressionnant, ton jouet, Malakor. Dommage qu'il fonctionne à l'agonie humaine. C'est un peu... démodé, tu ne trouves pas ?
+
+Il s'approcha de moi, sa présence dégageant une odeur de tabac de synthèse et d'ozone. Il me dévisagea avec une curiosité non dissimulée.
+— Alors, c'est toi le gamin qui fait chanter le fer ? Silas m'a dit que tu avais du talent. Essaie de ne pas tout faire sauter trop vite, j'aimerais bien voir le soleil avant de crever.
+
+Une jeune femme apparut derrière lui. Elle portait l'uniforme bleu terne des techniciens de surface, mais ses yeux étaient vifs, alertes, d'un brun profond qui contrastait avec l'argent dominant du Zénith. Une cicatrice fine en forme de goutte de sang marquait son poignet gauche — le signe des "Fils du Nadir".
+
+— Lyra ! s'exclama Kaelen. Où est Silas ?
 
 — Lyra ! s'exclama Kaelen. Où est Silas ?
 
@@ -64,17 +75,23 @@ Lyra sortit un pistolet à air comprimé chargé de pointes de graphite et fit f
 
 — Continue, Léo ! Ne t'arrête pas, quoi qu'il arrive ! Tu es le cœur de la cité maintenant !
 
-Malakor s'approcha, un sourire cruel déformant son visage de porcelaine.
-— Tu pensais vraiment que je ne surveillais pas mon propre Cœur ? Ce gamin est une ressource inestimable, un Technopathe pur que nous allons pouvoir disséquer pendant des décennies. Mais toi, petite vermine du Nadir... tu n'es qu'une erreur statistique.
+Malakor s'approcha, sa silhouette noire se détachant contre le brasier d'argent du Cœur. Un sourire cruel, presque de satisfaction scientifique, déformait son visage de porcelaine.
+— Tu pensais vraiment que je laisserais mon propre Cœur, le centre nerveux de notre civilisation, sans une surveillance absolue ? Ce gamin, Léo Vance, est une ressource inestimable, un Technopathe pur, une rareté génétique que nous allons pouvoir disséquer et analyser pendant des décennies pour comprendre les lois du Vide. Mais toi, petite vermine du Nadir, Lyra... tu n'es qu'une erreur statistique encombrante, un déchet de l'Hémostase qu'il est temps de recycler.
 
-Elle fit un signe sec à l'un de ses gardes. Une lame de cristal noir jaillit du gantelet de l'homme, vibrant d'une fréquence mortelle.
+Elle fit un signe sec, impitoyable, à l'un de ses Gardiens de l'Ombre. Une lame de cristal noir, longue et effilée, jaillit instantanément du gantelet de l'homme, vibrant d'une fréquence mortelle qui faisait grésiller l'air.
 
-— Lyra, pousse-toi ! criai-je, les larmes brûlant mes yeux.
+— Kael, protège-le ! hurla Lyra en se jetant en avant, son petit pistolet pneumatique crachant ses dernières pointes.
 
-Mais elle ne bougea pas d'un millimètre. Elle se tourna vers moi une dernière fois. Ses yeux étaient calmes, presque sereins.
-— Pour le Nadir, Léo. Pour la lumière.
+Kael essaya d'intervenir, sa faux de cristal parant le coup d'un autre garde, mais il était submergé par le nombre. L'ombre semblait obéir aux ordres de Malakor, s'enroulant autour de ses chevilles pour le ralentir.
 
-La lame la transperça de part en part. Elle ne poussa pas un cri. Elle s'agrippa au bras du garde avec la force du désespoir, ses propres mains ensanglantées tachant l'armure noire immaculée. Dans un dernier effort héroïque, elle utilisa sa main libre pour dégoupiller une grenade thermique qu'elle cachait dans sa ceinture de technicienne.
+— Lyra, pousse-toi ! Ne fais pas ça ! criai-je, les larmes de désespoir me brûlant les yeux, incapable de bouger alors que mon sang noir luttait pour transformer le plasma.
+
+Mais elle ne bougea pas d'un millimètre. Elle se planta fermement entre moi et le garde, ses épaules frêles dressées contre la mort qui approchait. Elle se tourna vers moi une toute dernière fois. Ses yeux bruns, d'habitude si vifs, étaient calmes, presque sereins, habités par une paix que je ne comprendrais que bien plus tard.
+— Pour le Nadir, Léo. Pour la pluie orange et les cœurs qui battent. Fais-les tous payer.
+
+La lame de cristal noir la transperça de part en part, ressortant dans son dos dans un craquement de vertèbres atroce. Elle ne poussa pas un cri de douleur, seulement un souffle court, un soupir de délivrance. Elle s'agrippa au bras du garde avec une force de possédée, ses mains ensanglantées tachant l'armure noire immaculée de l'homme. Dans un dernier effort héroïque, elle utilisa ses doigts crispés pour dégoupiller non pas une, mais deux grenades thermiques qu'elle cachait sous sa vareuse.
+
+— RECULEZ ! rugit Kael en saisissant Kaelen et en se jetant derrière une console blindée.
 
 L'explosion fut étouffée par le corps de Lyra et du garde, mais l'onde de choc fut suffisante pour remplir la salle d'une fumée opaque et de débris incandescents, jetant la confusion parmi les autres Gardiens.
 

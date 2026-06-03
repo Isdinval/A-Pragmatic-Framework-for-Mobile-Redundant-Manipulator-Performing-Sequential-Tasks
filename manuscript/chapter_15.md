@@ -75,6 +75,8 @@ Nous nous retrouvâmes tous sur la grande place centrale, un espace que nous avi
 
 Je m'assis sur un tronc d'arbre massif, encore couvert de son écorce rugueuse, juste à côté de Silas. Il était en pleine conversation, ses mains gesticulant pour expliquer un point de charpente à son voisin de table. Ce voisin n'était autre que Lord Caelum, l'ancien membre éminent du Conseil des Onze de Sang-Vail. Six mois plus tôt, cet homme aurait fait fouetter Silas pour une simple insulte ou l'aurait envoyé mourir dans les puits sans une seconde d'hésitation. Aujourd'hui, ils partageaient fraternellement une miche de pain noir et une gourde d'eau fraîche, discutant avec passion de la meilleure façon de drainer les marécages au sud pour étendre les cultures de blé sauvage. La survie était le plus grand, le plus brutal et le plus efficace des égalisateurs. Caelum avait perdu ses titres de noblesse et son nectar, mais il semblait avoir trouvé un but réel et une dignité nouvelle dans la boue et le travail honnête.
 
+Un peu plus loin, près du feu, Kael était entouré d'un groupe d'enfants. L'ancien garde d'élite, dont l'armure était désormais remplacée par un cuir souple et usé, leur racontait des histoires de Sang-Vail — mais pas les versions officielles. Il leur parlait des conduits secrets, des batailles dans l'ombre et de la façon dont la rouille finit toujours par gagner contre le cristal. Il avait gardé son humour sarcastique, mais ses yeux bleus n'avaient plus cette lueur de magnification forcée. Il était devenu le mentor de la nouvelle génération, celui qui leur apprenait que la force ne résidait pas dans le sang, mais dans la volonté d'être libre.
+
 Soudain, une jeune fille s'approcha de moi. Elle s'appelait Miri, elle avait huit ans et elle était née dans les niveaux les plus bas du Nadir, là où la lumière n'était qu'un concept abstrait.
 — Elara ? Est-ce que c'est vrai que le ciel était noir avant ?
 
@@ -123,9 +125,28 @@ Nous nous regardâmes tous les trois. Nous étions les Vance. Les enfants de la 
 
 Je levai les yeux vers le ciel. Les étoiles commençaient à percer le voile indigo. Elles n'étaient plus des points de lumière froids. Elles étaient des phares. Pour la première fois de ma vie, je n'avais pas peur de l'obscurité. Car je savais que, quoi qu'il arrive, le soleil se lèverait demain. Et il serait gratuit.
 
-Je fermai les yeux, savourant le vent tiède sur mon visage. Le Sang Noir n'était plus qu'un souvenir sombre. J'étais Elara Vance, une fille de la Terre. Et j'étais enfin vivante.
+Je fermai les yeux, savourant la caresse du vent tiède sur mon visage, un souffle qui ne devait rien aux machines et tout à la vie. Le Sang Noir n'était plus qu'un souvenir sombre, une cicatrice invisible sur mon âme qui s'effaçait lentement sous les rayons du jour. J'étais Elara Vance, une femme née dans la rouille, mais qui marchait désormais dans la clarté. J'étais une fille du Nadir, mais avant tout, j'étais une enfant de la Terre. Et j'étais enfin, véritablement vivante.
 
-C'était le premier été du nouveau monde. Et il était magnifique.
+C'était le premier été du nouveau monde. Et il était, au-delà des mots, tout simplement magnifique.
+
+Soudain, une vibration étrange parcourut le sol de pierre sous mes pieds, une pulsation que je ne ressentais plus avec mon sang, mais avec mes os. Léo, assis à quelques mètres de moi, se figea instantanément. Il leva sa main technopathique, celle qui était encore marquée par les brûlures dorées du Rallumage. Ses doigts grésillaient de minuscules étincelles blanches.
+
+— Elara ? murmura-t-il, son visage pâlissant sous le soleil de midi.
+
+— Qu'est-ce qu'il y a, Léo ? Tu sens une turbine défaillante ?
+
+— Non. Ce n'est pas une machine de l'Aube. C'est... c'est un signal. Une fréquence qui vient d'en haut. De beaucoup plus haut que l'atmosphère.
+
+Il fixa le ciel bleu azur avec une expression de terreur sacrée.
+— Elle porte une signature héraldique, Elara. Une signature que j'ai déjà vue dans les archives digitales d'Argentum. C'est le signal de rappel d'Aethelgard-Prime. La station orbitale.
+
+Mon cœur rata un battement. Valerius m'avait parlé d'une migration, d'une Source lointaine. Son sacrifice avait-il vraiment tout résolu, ou n'avait-il fait qu'allumer un phare pour ceux qui nous observaient depuis les étoiles, attendant que la moisson soit prête ?
+
+— Ils répondent, Elara, dit Léo dans un souffle. Ils croient que le Premier Roi les appelle. Et ils arrivent.
+
+Je regardai le soleil, ce dieu d'or dont nous venions de reconquérir la grâce. Il brillait toujours, magnifique et indifférent. Mais à l'horizon, là où la courbure de la Terre rencontrait l'infini, une nouvelle étoile venait d'apparaître. Une étoile qui bougeait. Une étoile qui tombait.
+
+Le livre de Sang-Vail était clos. Mais la guerre pour la Terre ne faisait que commencer.
 
 **SCORE D'OPTIMISATION BEST-SELLER (CHAPITRE 15) :**
 - Suspense : 85/100 (La promesse d'un nouveau voyage)

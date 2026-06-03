@@ -8,13 +8,12 @@
 
 ## 2. COHÉRENCE DES PERSONNAGES
 - **Elara Vance** :
-  - *Évolution* : Passe de la passivité (Nectar) à l'action. Sa transition vers la perte de ses pouvoirs au Ch 14 est cohérente avec le thème du sacrifice.
-  - *Motivation* : Protéger Léo reste son moteur principal.
+  - *Évolution* : Passe de la passivité (Nectar) à l'action. Sa transition vers la perte de ses pouvoirs au Ch 14 est cohérente avec le thème du sacrifice. La romance avec Valerius ajoute une couche de tragédie nécessaire.
+  - *Motivation* : Protéger Léo reste son moteur principal, mais s'étend à la survie de l'humanité.
 - **Léo Vance** :
-  - *Évolution* : Sa croissance d'ingénieur est bien rythmée. Ses découvertes à Argentum justifient ses compétences finales.
-- **Silas** :
-  - *Évolution* : Son passage de Garde à Allié est justifié par son traumatisme partagé et sa haine de l'aristocratie (révélée au Ch 4).
-  - *Incohérence potentielle corrigée* : Sa survie au Ch 14 a été explicitée par un blindage thermique lourd.
+  - *Évolution* : Sa croissance d'ingénieur/technopathe est bien rythmée. Ses découvertes à Argentum justifient ses compétences finales.
+- **Silas & Kael** :
+  - *Arc secondaire* : Cohérent. Leur mission de sabotage (Ch 12-14) explique pourquoi les défenses du Zénith tombent lors du Rallumage. Silas trouve sa rédemption par l'action tactique. Kael apporte une dynamique "Fan-Favorite" par son ironie et son expertise de combat.
 
 ## 3. COHÉRENCE TEMPORELLE ET GÉOGRAPHIQUE
 - **Le Voyage** : Le trajet Sang-Vail -> Nox -> Argentum -> Hyperborée respecte les distances établies dans la Bible.
